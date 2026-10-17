@@ -1,0 +1,3427 @@
+# Nederlandse vertaling EasyEDA Standard — concept
+# Niet volledig vertaald: onvertaalde sleutels gebruiken voorlopig Engelse terugvaltekst.
+# Bron: ui_data_CLEAN.txt; secties en sleutels zijn behouden.
+# Native (English)
+
+#Menu
+User = Gebruiker
+Join... = Registreren...
+Login... = Aanmelden...
+Log in = Aanmelden
+Logout = Afmelden
+Change password... = Wachtwoord wijzigen...
+User Preference = Gebruikersvoorkeuren
+System Settings... = Systeeminstellingen...
+System Settings = Systeeminstellingen
+Crash = Crash
+Invite friends... = Vrienden uitnodigen...
+Language = Taal
+Language Setting = Taalinstelling
+
+Document Recovery = Documentherstel
+Your Preferences Information = Your Preferences Information
+File = Bestand
+New = Nieuw
+Project... = Project...
+Schematic = Schema
+Schematic-Simulation = Schemasimulatie
+Spice Symbol = Spice Symbol
+Spice Subckt = Spice Subckt
+spicePre = spicePre
+PCB = PCB
+Schematic Module = Schemamodule
+PCB Module = PCB-module
+Save... = Opslaan...
+Save As... = Opslaan als...
+Save As Module... = Opslaan als module...
+Print = Afdrukken
+Export Document = Document exporteren
+LTspice... = LTspice...
+Eagle... = Eagle...
+Altium... = Altium...
+Cadence... = Cadence...
+Pads... = Pads...
+DXF = DXF
+Import = Importeren
+
+
+Edit = Bewerken
+Undo = Ongedaan maken
+Redo = Opnieuw uitvoeren
+Cut = Knippen
+Copy = Kopiëren
+Paste = Plakken
+Select = Selecteren
+Delete = Verwijderen
+Clear All = Alles wissen
+Move = Verplaatsen
+Drag = Slepen
+Bring to Front = Naar voorgrond
+Send to Back = Naar achtergrond
+Align = Uitlijnen
+Align Left = Links uitlijnen
+Align Right = Rechts uitlijnen
+Align Top = Boven uitlijnen
+Align Bottom = Onder uitlijnen
+Align Horizontal Centers = Horizontaal centreren
+Align Vertical Centers = Verticaal centreren
+Distribute Horizontally = Horizontaal verdelen
+Distribute Vertically = Verticaal verdelen
+Distribute Left Edges Equidistantly = Distribute Left Edges Equidistantly
+Distribute Top Edges Equidistantly = Distribute Top Edges Equidistantly
+Align Grid = Op raster uitlijnen
+Rotate = Draaien
+Rotate Left = Linksom draaien
+Rotate Right = Rechtsom draaien
+Flip Horizontal = Horizontaal spiegelen
+Flip Vertical = Verticaal spiegelen
+Rotate and Flip = Rotate and Flip
+Group/Ungroup Symbol... = Group/Ungroup Symbol...
+
+[menu_project]
+View = Beeld
+[/menu_project]
+Find = Zoeken
+Zoom In = Inzoomen
+Zoom Out = Uitzoomen
+Fit in Window = Passend in venster
+Refresh = Vernieuwen
+Snap = Vastklikken
+Cross Cursor = Kruiscursor
+Toolbars = Werkbalken
+Drawing Tools = Tekengereedschappen
+Wiring Tools = Bedradingsgereedschappen
+Power Objects = Voedingssymbolen
+PCB Tools = PCB-gereedschappen
+Footprint Tools = Footprintgereedschappen
+Layers Tool = Lagengereedschap
+Layer Manager = Lagenbeheer
+Enable and Show All Layers = Alle lagen inschakelen en tonen
+Net Visible = Net zichtbaar
+Auto = Automatisch
+Digital Objects = Digitale objecten
+Tools = Gereedschappen
+Arc Center = Boogmiddelpunt
+Arc Type = Boogtype
+Center Point Arc = Boog vanuit middelpunt
+Two-point Arc = Boog met twee punten
+
+Place = Plaatsen
+Drawing Tools = Tekengereedschappen
+Arc = Boog
+Elliptical Arc = Elliptische boog
+Ellipse = Ellips
+Circle = Cirkel
+Pie = Pie
+Line = Lijn
+Polyline = Polyline
+Rectangle = Rechthoek
+Rectangular = Rectangular
+The rectangle does not support non-90 degree rotation. Please use Solid Region instead. = The rectangle does not support non-90 degree rotation. Please use Solid Region instead.
+
+Rect = Rect
+Round Rectangle = Round Rectangle
+Polygon = Veelhoek
+Bezier = Bezier
+Path = Path
+Graphic = Graphic
+Bus = Bus
+Bus Entry = Bus Entry
+Junction = Junction
+Net Port = Net Port
+Voltage Probe = Voltage Probe
+Power Port = Power Port
+Wire = Draad
+Annotation = Annotation
+Track = Spoor
+Image = Afbeelding
+Arrow Head = Arrow Head
+Arrowhead = Arrowhead
+Arrow = Arrow
+No Connect Flag = No Connect Flag
+Place = Plaatsen
+Pin = Pin
+Lock Selected Objects = Lock Selected Objects
+
+Miscellaneous = Miscellaneous
+Find Component = Find Component
+Component = Component
+Footprint... = Footprint...
+This component is deleted! = This component is deleted!
+Convert = Convert
+Convert Schematic to PCB = Convert Schematic to PCB
+The component ID will be reset according to the component prefix, this operation will clear Undo histories. Please notice: = The component ID will be reset according to the component prefix, this operation will clear Undo histories. Please notice:
+Please make sure the component prefixes of the schematic and PCB are corresponding = Please make sure the component prefixes of the schematic and PCB are corresponding
+Please reset the component ID of corresponding schematic or corresponding PCB too = Please reset the component ID of corresponding schematic or corresponding PCB too
+Do you want to continue? = Do you want to continue?
+Reset Component Unique ID = Reset Component Unique ID
+Component ID reset successfully! = Component ID reset successfully!
+Convert to PCB = Convert to PCB
+Update PCB = Update PCB
+Shortcut Keys Setting = Shortcut Keys Setting
+Edit Symbol... = Edit Symbol...
+Highlight Net... = Highlight Net...
+Simulate = Simulate
+Simulation = Simulatie
+Standard Mode = Standard Mode
+Simulation Mode = Simulation Mode
+Change to Standard Mode = Change to Standard Mode
+Change to Simulation Mode = Change to Simulation Mode
+Welcome to Use JLCEDA = Welcome to Use JLCEDA
+Welcome to Use EasyEDA = Welcome to Use EasyEDA
+Enable Education Edition Features for Free >>> = Enable Education Edition Features for Free >>>
+Quick Start = Quick Start
+More Help = More Help
+Explore = Explore
+Message = Message
+[start]
+Example = Example
+Forum = Forum
+Tutorials = Tutorials
+Videos = Videos
+[/start]
+Custom Data = Custom Data
+JLCEDA = JLCEDA
+
+Copy Result Image = Copy Result Image
+Export Result Image = Export Result Image
+Simulation Result = Simulation Result
+Simulation Results... = Simulation Results...
+Simulate this Sheet = Simulate this Sheet
+Simulate this Project = Simulate this Project
+Non-simulation mode, please switch to the simulation mode first and then run = Non-simulation mode, please switch to the simulation mode first and then run
+Run the Document = Run the Document
+Run the Project... = Run the Project...
+Netlist for Document = Netlist for Document
+Netlist for Project = Netlist for Project
+LTspice for This Sheet... = LTspice for This Sheet...
+Spice for this Project... = Spice for this Project...
+Protel/Altium for PCB... = Protel/Altium for PCB...
+PADS for PCB... = PADS for PCB...
+FreePCB for PCB... = FreePCB for PCB...
+Eagle for PCB... = Eagle for PCB...
+Kicad for PCB... = Kicad for PCB...
+OrCAD for PCB... = OrCAD for PCB...
+BOM report... = BOM report...
+BOM for Document... = BOM for Document...
+BOM for Project... = BOM for Project...
+Pin Manager... = Pin Manager...
+Spice Model... = Spice Model...
+Layer Manager... = Layer Manager...
+Net Color... = Net Color...
+Design Rule... = Design Rule...
+Copper Area = Kopervlak
+Rebuild Selected = Rebuild Selected
+Rebuild All = Rebuild All
+Copper Area Manager... = Copper Area Manager...
+Export Pick and Place File = Export Pick and Place File
+Measure Distance = Measure Distance
+Set Canvas Origin by Mouse Location = Set Canvas Origin by Mouse Location
+Generates Pick and Place File = Generates Pick and Place File
+Unroute All = Unroute All
+Auto Route = Automatisch routeren
+Export Autorouter File(DSN) = Export Autorouter File(DSN)
+Import Autorouter Session File(SES) = Import Autorouter Session File(SES)
+Autorouter File(DSN) = Autorouter File(DSN)
+Autorouter Session File(SES) = Autorouter Session File(SES)
+Terminate Routing Automatically = Terminate Routing Automatically
+Delete Segments = Delete Segments
+Unroute Connections = Unroute Connections
+Unroute Connection = Unroute Connection
+Unroute Nets = Unroute Nets
+Select = Selecteren
+Segments = Segments
+Connection = Connection
+Net = Net
+Apply Design Rule While Routing and Auto Placing Via = Apply Design Rule While Routing and Auto Placing Via
+
+Add SubPart = Add SubPart
+Annotate... = Annotate...
+Config = Config
+
+Help = Help
+About = Over
+Online Chat = Online Chat
+Shortcut Keys = Shortcut Keys
+FAQ = FAQ
+Tutorials = Tutorials
+Basic Tutorials = Basic Tutorials
+Video Tutorials = Video Tutorials
+Essential Check = Essential Check
+Simulation Tutorials = Simulation Tutorials
+Updated Instructions = Updated Instructions
+Open File Format = Open File Format
+About Upgrade = About Upgrade
+User Forum = User Forum
+Feature Request = Feature Request
+Feature Requests = Feature Requests
+Bug Report = Bug Report
+Bug Reports = Bug Reports
+Tips & Skill = Tips & Skill
+Ask for Help = Ask for Help
+Schematic Capture = Schematic Capture
+Spice Simulation = Spice Simulation
+Non-simulation mode = Non-simulation mode
+PCB Layout = PCB Layout
+General Discussion = General Discussion
+More Information = More Information
+Privacy Policy = Privacy Policy
+#Terms of Use & Privacy Policy =
+Terms of Service = Terms of Service
+Plans and Pricing = Plans and Pricing
+Help Translate = Help Translate
+About Us = About Us
+Contact Us = Contact Us
+Change History = Change History
+Join Us = Join Us
+#PCB Fabrication Capabilities =
+PCB Fabrication = PCB Fabrication
+Order Capabilities = Order Capabilities
+Order Price = Order Price
+Order Essential Check = Order Essential Check
+Order FAQ = Order FAQ
+Order Process = Order Process
+Full Screen = Full Screen
+
+Support = Support
+[leftNavTabs]
+Support = Support
+[/leftNavTabs]
+Historical Records... = Historical Records...
+Extensions = Extensions
+Order PCB... = Order PCB...
+Import Changes = Import Changes
+Press {0}F11{1} to switch to full screen. = Press {0}F11{1} to switch to full screen.
+Delete Selected = Delete Selected
+Simulate... = Simulate...
+Config = Config
+Terms of Service & Privacy Policy = Terms of Service & Privacy Policy
+Help Topics = Help Topics
+3D Model(obj) = 3D Model(obj)
+3D Model(step) = 3D Model(step)
+SVG Source... = SVG Source...
+File Source = File Source
+Group These Items as a Symbol = Group These Items as a Symbol
+Group These Items as a Footprint = Group These Items as a Footprint
+Set Canvas Origin = Set Canvas Origin
+Document Setting = Document Setting
+Sheet Properties = Sheet Properties
+Set Board Outline = Set Board Outline
+Teardrop... = Teardrop...
+Panelize... = Panelize...
+Check Dimension = Check Dimension
+Smart Dimension = Smart Dimension
+Footprint Wizard = Footprint Wizard
+Footprint Wizard... = Footprint Wizard...
+Select package type = Select package type
+Smart Dimension Properties = Smart Dimension Properties
+Global Delete = Global Delete
+Cross Probe = Cross Probe
+Cross Probe and Place = Cross Probe and Place
+Paper Size = Paper Size
+Register = Register
+User Center = User Center
+
+By Mouse Location = By Mouse Location
+Set Coordinate = Set Coordinate
+By Coordinates... = By Coordinates...
+By Center of Pads = By Center of Pads
+By Center Grid of Symbols = By Center Grid of Symbols
+
+#Schematic Canvas Properties
+Properties = Eigenschappen
+Apply = Toepassen
+Save as default = Save as default
+Canvas Properties = Canvas Properties
+Width = Breedte
+Height = Hoogte
+Background = Background
+Visible Grid = Visible Grid
+Grid Visible = Grid Visible
+Real-Time Track Length = Real-Time Track Length
+Display Real-Time Track Length = Display Real-Time Track Length
+Grid Color = Grid Color
+Grid Size = Grid Size
+Grid Style = Grid Style
+Grid.Line Width = Grid.Line Width
+Grid.Line Spacing = Grid.Line Spacing
+Copper to Board Outline = Copper to Board Outline
+Improve Fabrication = Improve Fabrication
+Spoke Width = Spoke Width
+Stroke Color = Stroke Color
+Stroke Width = Stroke Width
+Stroke Style = Stroke Style
+Fill Color = Fill Color
+Selected Objects = Selected Objects
+Frame Size = Frame Size
+Alt Snap = Alt Snap
+Snap size when pressing the Alt key = Snap size when pressing the Alt key
+Prefix Start = Prefix Start
+
+#Text Properties
+Text Properties = Text Properties
+Text = Tekst
+Color = Kleur
+Font Family = Font Family
+Font Size = Font Size
+Font Weight = Font Weight
+Font Style = Font Style
+Text Type = Text Type
+Text Anchor = Text Anchor
+Baseline = Baseline
+(Auto) = (Auto)
+(auto) = (auto)
+start = start
+middle = middle
+end = end
+inherit = inherit
+comment = comment
+spice = spice
+normal = normal
+italic = italic
+Default = Standaard
+Add = Toevoegen
+bold = bold
+bolder = bolder
+lighter = lighter
+Failed to parse the font file: {name} = Failed to parse the font file: {name}
+Please select a font file of ttf or woff format. = Please select a font file of ttf or woff format.
+Add font success: {name} = Add font success: {name}
+Failed to add font: {name} = Failed to add font: {name}
+Add Font = Add Font
+Failed to parse cached font: {name} = Failed to parse cached font: {name}
+Load cached fonts fail! = Load cached fonts fail!
+
+#Stroke
+Stroke Color = Stroke Color
+Stroke Width = Stroke Width
+Stroke Style = Stroke Style
+Fill Color = Fill Color
+X Radius = X Radius
+Y Radius = Y Radius
+
+#spice
+Switch mode = Switch mode
+The current documents will be closed, and reopen after switching mode, do you want to continue? = The current documents will be closed, and reopen after switching mode, do you want to continue?
+PCB related documents are not allowed in emulation mode = PCB related documents are not allowed in emulation mode
+Please change the editor to "Simulation" mode first at the top left corner. = Please change the editor to "Simulation" mode first at the top left corner.
+Please change the editor to "Standard" mode first at the top left corner. = Please change the editor to "Standard" mode first at the top left corner.
+Common = Common
+spice.open = spice.open
+spice.close = spice.close
+Sources = Sources
+Instruments/Meters = Instruments/Meters
+Transistors = Transistors
+Digital Circuits = Digital Circuits
+Operational Amplifier = Operational Amplifier
+multimeter = multimeter
+multimeter Settings = multimeter Settings
+FunctionGenerator Settings = FunctionGenerator Settings
+Voltage Source Settings = Voltage Source Settings
+Current Source Settings = Current Source Settings
+Powersw Settings = Powersw Settings
+Resistor Settings = Resistor Settings
+Capacitor Settings = Capacitor Settings
+Diode Settings = Diode Settings
+voltPowersw Settings = voltPowersw Settings
+Inductor Settings = Inductor Settings
+VCVS Settings = VCVS Settings
+CCCS Settings = CCCS Settings
+VCCS Settings = VCCS Settings
+CCVS Settings = CCVS Settings
+JFET Settings = JFET Settings
+FET Settings = FET Settings
+Transmission Line Settings = Transmission Line Settings
+Oscilloscope Settings = Oscilloscope Settings
+XFMR Settings = XFMR Settings
+LOGIC Settings = LOGIC Settings
+LOGICSTATE Settings = LOGICSTATE Settings
+DIGITALCLOCK Settings = DIGITALCLOCK Settings
+Potentiometer Settings = Potentiometer Settings
+MUTUAL_INDUCTORS Settings = MUTUAL_INDUCTORS Settings
+NE555 Settings = NE555 Settings
+THREE_PHASE Settings = THREE_PHASE Settings
+Logic_Probe Settings = Logic_Probe Settings
+78XX Settings = 78XX Settings
+79XX Settings = 79XX Settings
+OPAMP5PEE Settings = OPAMP5PEE Settings
+OPAMP5PEECN Settings = OPAMP5PEECN Settings
+OPAMP3PEE Settings = OPAMP3PEE Settings
+OPAMP3PEECN Settings = OPAMP3PEECN Settings
+DELAY_FUSE Settings = DELAY_FUSE Settings
+Ratio = Ratio
+K[%] = K[%]
+Model = Model
+States = States
+Voltage[V] = Voltage[V]
+Voltage gain[V/V] = Voltage gain[V/V]
+Current gain[A/A] = Current gain[A/A]
+Transconductance[Mho] = Transconductance[Mho]
+Transresistance[Ω] = Transresistance[Ω]
+Voltage Source Type = Voltage Source Type
+Current Source Type = Current Source Type
+multimeter type = multimeter type
+power type = power type
+Voltmeter Resistance(R)(Ω) = Voltmeter Resistance(R)(Ω)
+Amperometer Resistance(R)(Ω) = Amperometer Resistance(R)(Ω)
+mu.V = mu.V
+mu.A = mu.A
+Sine Wave = Sine Wave
+Triangular Wave = Triangular Wave
+Rectangular Wave = Rectangular Wave
+AC = AC
+DC = DC
+SINE = SINE
+PULSE = PULSE
+EXP = EXP
+SFFM = SFFM
+PWL = PWL
+B.spice = B.spice
+DC Value[V] = DC Value[V]
+DC Value[A] = DC Value[A]
+DC offset[V] = DC offset[V]
+DC offset[A] = DC offset[A]
+Amplitude[V] = Amplitude[V]
+Amplitude[A] = Amplitude[A]
+Freq[Hz] = Freq[Hz]
+Theta[1/s] = Theta[1/s]
+Tdelay[s] = Tdelay[s]
+Phi[deg] = Phi[deg]
+Tperiod[s] = Tperiod[s]
+Ton[s] = Ton[s]
+Tfall[s] = Tfall[s]
+Trise[s] = Trise[s]
+Von[V] = Von[V]
+Von[A] = Von[A]
+Vinitial[V] = Vinitial[V]
+Vinitial[A] = Vinitial[A]
+Vpulsed[V] = Vpulsed[V]
+Vpulsed[A] = Vpulsed[A]
+Rise Delay[s] = Rise Delay[s]
+Rise Tau[s] = Rise Tau[s]
+Fall Delay[s] = Fall Delay[s]
+Fall Tau[s] = Fall Tau[s]
+Carrier Freq[Hz] = Carrier Freq[Hz]
+Modulation Index = Modulation Index
+Signal Freq[Hz] = Signal Freq[Hz]
+Time[s] = Time[s]
+Value[V] = Value[V]
+Value[A] = Value[A]
+Waveforms = Waveforms
+Duty cycle[%] = Duty cycle[%]
+Amplitude[Vp] = Amplitude[Vp]
+Offset[V] = Offset[V]
+Rise/Fall Time[sec] = Rise/Fall Time[sec]
+Capacitance[F] = Capacitance[F]
+sComponent = sComponent
+Inductance[H] = Inductance[H]
+Gbw = Gbw
+Slewrate = Slewrate
+Avol = Avol
+Rout(Ω) = Rout(Ω)
+Rin(Ω) = Rin(Ω)
+Ibias[A] = Ibias[A]
+Inhi[V] = Inhi[V]
+Inlo[V] = Inlo[V]
+Isc[A] = Isc[A]
+Outhi[V] = Outhi[V]
+Outlo[V] = Outlo[V]
+Vabsmax[V] = Vabsmax[V]
+Vmin[V] = Vmin[V]
+Iq[A] = Iq[A]
+Cin[F] = Cin[F]
+high = high
+low = low
+Oscilloscope = Oscilloscope
+Logic Analyzer = Logic Analyzer
+Channel_A = Channel_A
+Channel_B = Channel_B
+Channel A = Channel A
+Channel B = Channel B
+Time = Time
+Reverse = Reverse
+Simulation file exceed = Simulation file exceed
+The simulation file is too large and has been stopped for performance reasons. = The simulation file is too large and has been stopped for performance reasons.
+Timebase = Timebase
+Scale: = Scale:
+X pos.(Div): = X pos.(Div):
+Y pos.(Div): = Y pos.(Div):
+View meter... = View meter...
+The circuit has components without simulation model: = The circuit has components without simulation model:
+Your simulation interval is too short to simulate, please wait 5 seconds later and try again; if still show this message, may be you simulated over 500 times the maximum simulation times per day. = Your simulation interval is too short to simulate, please wait 5 seconds later and try again; if still show this message, may be you simulated over 500 times the maximum simulation times per day.
+Resistor1_US = Resistor1_US
+Resistor1_EU/IEC = Resistor1_EU/IEC
+Resistor1_3D = Resistor1_3D
+Capacitor1_US = Capacitor1_US
+Capacitor1_EU/IEC = Capacitor1_EU/IEC
+Capacitor1_3D = Capacitor1_3D
+Rheostat_US = Rheostat_US
+Rheostat_EU/IEC = Rheostat_EU/IEC
+Rheostat_3D = Rheostat_3D
+Capacitor_Electrolytic_US = Capacitor_Electrolytic_US
+Capacitor_Electrolytic_EU/IEC = Capacitor_Electrolytic_EU/IEC
+Capacitor_Electrolytic_3D = Capacitor_Electrolytic_3D
+Inductor_US = Inductor_US
+Inductor_EU/IEC = Inductor_EU/IEC
+Inductor_3D = Inductor_3D
+Resistor2_US = Resistor2_US
+Resistor2_EU/IEC = Resistor2_EU/IEC
+Resistor2_3D = Resistor2_3D
+Multimeter = Multimeter
+Multimeter_3D = Multimeter_3D
+Oscilloscope = Oscilloscope
+Oscilloscope_3D = Oscilloscope_3D
+Signal_Generator = Signal_Generator
+Signal Generator_3D = Signal Generator_3D
+Wattmeter = Wattmeter
+Wattmeter_3D = Wattmeter_3D
+NSSWS1080T_3D = NSSWS1080T_3D
+Voltage_Source_VDC = Voltage_Source_VDC
+Voltage_Source_VSin = Voltage_Source_VSin
+Voltage_Source_VPULSE = Voltage_Source_VPULSE
+Voltage_Source_VEXP = Voltage_Source_VEXP
+Voltage_Source_VSFFM = Voltage_Source_VSFFM
+Voltage_Source_VPWL = Voltage_Source_VPWL
+Voltage_Source_V_Behavioral_Source = Voltage_Source_V_Behavioral_Source
+Current_Source_IDC = Current_Source_IDC
+Current_Source_ISin = Current_Source_ISin
+Current_Source_IPULSE = Current_Source_IPULSE
+Current_Source_IEXP = Current_Source_IEXP
+Current_Source_ISFFM = Current_Source_ISFFM
+Current_Source_IPWL = Current_Source_IPWL
+Current_Source_I_Behavioral_Source = Current_Source_I_Behavioral_Source
+CCCS_1 = CCCS_1
+CCCS_2 = CCCS_2
+CCVS_1 = CCVS_1
+CCVS_2 = CCVS_2
+VCCS = VCCS
+VCVS = VCVS
+Three_Phase_Wye_Load = Three_Phase_Wye_Load
+Three_Phase_Delta_Load = Three_Phase_Delta_Load
+78XX = 78XX
+79XX = 79XX
+555 = 555
+555_3D = 555_3D
+Transformer_US = Transformer_US
+Transformer_EU/IEC = Transformer_EU/IEC
+Transformer_Center_Tapped_US = Transformer_Center_Tapped_US
+Transformer_Center_Tapped_EU/IEC = Transformer_Center_Tapped_EU/IEC
+Mutual_Inductor_US = Mutual_Inductor_US
+Mutual_Inductor_EU/IEC = Mutual_Inductor_EU/IEC
+Mutual_Inductor2_US = Mutual_Inductor2_US
+Mutual_Inductor2_EU/IEC = Mutual_Inductor2_EU/IEC
+OR2EE_US = OR2EE_US
+OR3EE_US = OR3EE_US
+OR4EE_US = OR4EE_US
+OR2EE_CN = OR2EE_CN
+OR3EE_CN = OR3EE_CN
+OR4EE_CN = OR4EE_CN
+NOR2EE_US = NOR2EE_US
+NOR3EE_US = NOR3EE_US
+NOR4EE_US = NOR4EE_US
+NOR2EE_CN = NOR2EE_CN
+NOR3EE_CN = NOR3EE_CN
+NOR4EE_CN = NOR4EE_CN
+AND2EE_US = AND2EE_US
+AND3EE_US = AND3EE_US
+AND4EE_US = AND4EE_US
+AND2EE_CN = AND2EE_CN
+AND3EE_CN = AND3EE_CN
+AND4EE_CN = AND4EE_CN
+NAND2EE_US = NAND2EE_US
+NAND3EE_US = NAND3EE_US
+NAND4EE_US = NAND4EE_US
+NAND2EE_CN = NAND2EE_CN
+NAND3EE_CN = NAND3EE_CN
+NAND4EE_CN = NAND4EE_CN
+XOR2EE_US = XOR2EE_US
+XOR2EE_CN = XOR2EE_CN
+XNOR2EE_US = XNOR2EE_US
+XNOR2EE_CN = XNOR2EE_CN
+Digital_Clock_1Hz = Digital_Clock_1Hz
+Logicstate_0 = Logicstate_0
+Logicstate_1 = Logicstate_1
+Logic_Probe = Logic_Probe
+Buffee = Buffee
+INVEE_US = INVEE_US
+INVEE_CN = INVEE_CN
+Schmittbuffee = Schmittbuffee
+LM358N_US = LM358N_US
+LM358N_CN = LM358N_CN
+OPAMP3PEE_US = OPAMP3PEE_US
+OPAMP3PEE_CN = OPAMP3PEE_CN
+OPAMP5PEE_US = OPAMP5PEE_US
+OPAMP5PEE_CN = OPAMP5PEE_CN
+Voltage_Controlled_Switch = Voltage_Controlled_Switch
+Current_Controlled_Switch = Current_Controlled_Switch
+FUSE = FUSE
+Delay_Fuse = Delay_Fuse
+Transmission_Line = Transmission_Line
+Crystal = Crystal
+DFFEE = DFFEE
+TFFEE = TFFEE
+JKFFEE = JKFFEE
+SRFFEE = SRFFEE
+SRLATCHEE = SRLATCHEE
+SRNANDFFEE = SRNANDFFEE
+SRNORFFEE = SRNORFFEE
+INVTSEE = INVTSEE
+INVODEE = INVODEE
+Cbuffer = Cbuffer
+SPDT_Open = SPDT_Open
+SPDT_Close = SPDT_Close
+SPST_Close = SPST_Close
+SPST_Open = SPST_Open
+Fast_Crystal = Fast_Crystal
+Lamp = Lamp
+BCD_Segment = BCD_Segment
+Seven_Segment = Seven_Segment
+Traffic_Light = Traffic_Light
+Lamp Settings = Lamp Settings
+Power[W] = Power[W]
+Dropout Voltage[V] = Dropout Voltage[V]
+Current[A] = Current[A]
+Threshold[V] = Threshold[V]
+Clock Rate = Clock Rate
+TrafficLight Settings = TrafficLight Settings
+BCDSegment Settings = BCDSegment Settings
+SevenSegment Settings = SevenSegment Settings
+SPDT Settings = SPDT Settings
+SPST Settings = SPST Settings
+LogicAnalyzer Settings = LogicAnalyzer Settings
+Fuse Settings = Fuse Settings
+Wattmeter Settings = Wattmeter Settings
+open = open
+close = close
+Common Anode = Common Anode
+Common Cathode = Common Cathode
+AC Amplitude = AC Amplitude
+AC Phase = AC Phase
+There are some parts haven't spice model, please use "EElib" and "Spice Symbol" at "Libraries" of "Simulation" mode, or you can assign the spice model for them: = There are some parts haven't spice model, please use "EElib" and "Spice Symbol" at "Libraries" of "Simulation" mode, or you can assign the spice model for them:
+
+#Pin
+Pin Properties = Pin Properties
+Orientation = Orientation
+Line 45° = Line 45°
+Line 90° = Line 90°
+Arc 45° = Arc 45°
+Arc 90° = Arc 90°
+Free Angle = Free Angle
+Start X = Start X
+Start Y = Start Y
+Length = Lengte
+Name = Naam
+name = name
+Number = Number
+Spice Pin Order = Spice Pin Order
+Display Number = Display Number
+Clock = Clock
+Show = Tonen
+Electric = Electric
+
+#Junction
+Junction Properties = Junction Properties
+X Location = X Location
+Y Location = Y Location
+Size = Afmeting
+Color = Kleur
+
+#Net Label
+Net Label = Net Label
+
+#Part
+Prefix = Prefix
+
+#Image Properties and Dialog
+Add Image = Add Image
+Image Properties = Image Properties
+Image URL = Image URL
+Input an image URL = Input an image URL
+Invalid image URL = Invalid image URL
+Invalid Prefix = Invalid Prefix
+Failed to load the image = Failed to load the image
+Image URL contains special characters = Image URL contains special characters
+From Web URL = From Web URL
+From Local Computer = From Local Computer
+Please select a png/gif/jpg file. = Please select a png/gif/jpg file.
+Please select an image file. = Please select an image file.
+Select an image file = Select an image file
+Insert Image to PCB = Insert Image to PCB
+Tolerance = Tolerance
+tolerance = tolerance
+capacitance = capacitance
+frequency = frequency
+Rated Voltage = Rated Voltage
+Rated Current = Rated Current
+resistance = resistance
+Resistance = Weerstand
+Resistance[Ω] = Resistance[Ω]
+inductance = inductance
+Operating Temperature = Operating Temperature
+Shape Invert = Shape Invert
+Image Size = Image Size
+Color Tolerance = Color Tolerance
+Simplify Level = Simplify Level
+Corner Threshold = Corner Threshold
+Despeckle Size = Despeckle Size
+
+#PCB Canvas Properties
+Units = Units
+Snap Size = Snap Size
+Other = Other
+Routing Width = Routing Width
+[router]
+Routing Width = Routing Width
+[/router]
+Please using hotkey {0}{key1}{1} or {2}{key2}{3} to change track width while on routing. = Please using hotkey {0}{key1}{1} or {2}{key2}{3} to change track width while on routing.
+Routing Angle = Routing Angle
+Routing Conflict = Routing Conflict
+Remove Loop = Remove Loop
+Cut SilkScreen = Cut SilkScreen
+Grid = Raster
+Grid 90 = Grid 90
+Grid 45 = Grid 45
+Copper Zone = Copper Zone
+Visible = Zichtbaar
+Invisible = Invisible
+Ignore = Ignore
+Block = Block
+RoundTrack = RoundTrack
+
+#Track
+Track Properties = Track Properties
+Layer = Laag
+Net = Net
+Start X = Start X
+Start Y = Start Y
+End X = End X
+End Y = End Y
+ID = ID
+
+#Pad Properties
+Pad Properties = Pad Properties
+Shape = Shape
+Hole(D) = Hole(D)
+Center X = Center X
+Center Y = Center Y
+Round = Round
+Oval = Oval
+Hole Shape = Hole Shape
+Slot = Slot
+Hole(Length) = Hole(Length)
+Plated = Plated
+None = None
+Paste Mask Expansion = Paste Mask Expansion
+Solder Mask Expansion = Solder Mask Expansion
+
+#Via Properties
+Via Properties = Via Properties
+Diameter = Diameter
+Drill Diameter = Drill Diameter
+
+#Hole Properties
+Hole Properties = Hole Properties
+
+
+#TEXT
+Text Properties = Text Properties
+Line Width = Line Width
+Rotation = Rotation
+Fonts Management = Fonts Management
+
+#Dimension Properties
+Dimension Properties = Dimension Properties
+
+#Footprint Properties
+Component Properties = Component Properties
+Display Prefix = Display Prefix
+Pin Name = Pin Name
+Pin Number = Pin Number
+Spice Pin Number = Spice Pin Number
+Graphics = Graphics
+Pattern = Pattern
+
+Pin: = Pin:
+Netflag: = Netflag:
+Netlabel: = Netlabel:
+NetPort: = NetPort:
+Voltage Probe: = Voltage Probe:
+Pin: = Pin:
+Hidden Pin: = Hidden Pin:
+Unknown: = Unknown:
+
+#Arc Properties
+Arc Properties = Arc Properties
+Start Angle = Start Angle
+End Angle = End Angle
+Rotation Direction = Rotation Direction
+
+#Rect Properties
+Rect Properties = Rect Properties
+Round radius = Round radius
+
+#Circle Properties
+Circle Properties = Circle Properties
+Radius = Straal
+
+#CopperArea Properties
+CopperArea Properties = CopperArea Properties
+Clearance = Vrije ruimte
+Pad Connection = Pad Connection
+Direct = Direct
+Spoke = Spoke
+Keep Island = Keep Island
+Fill Style = Fill Style
+CopperArea conflict: copper area outlines in same layer with different net names must not overlap = CopperArea conflict: copper area outlines in same layer with different net names must not overlap
+Copper area rebuild complete! You can set "Copper Zone" as "Visible" at the right-hand property panel after single click the empty area. = Copper area rebuild complete! You can set "Copper Zone" as "Visible" at the right-hand property panel after single click the empty area.
+Please create board outline first. = Please create board outline first.
+Board outlines are not closed. = Board outlines are not closed.
+Rebuild CopperArea = Rebuild CopperArea
+Edit Points = Edit Points
+Direct = Direct
+Spoke = Spoke
+No Solid = No Solid
+Board Cutout = Board Cutout
+Solid = Solid
+[copperArea]
+None = None
+[/copperArea]
+
+#Custom Properties
+Custom Properties = Custom Properties
+Fixed Properties = Fixed Properties
+Add new parameter = Add new parameter
+Add New Parameter = Add New Parameter
+Add New Supplier = Add New Supplier
+Mounted = Mounted
+Unknown = Unknown
+
+Custom = Aangepast
+Scan the QR code below and open it on the mobile side = Scan the QR code below and open it on the mobile side
+How to create a single layer PCB = How to create a single layer PCB
+Currently doesn't support layout single layer directly, please refer at: = Currently doesn't support layout single layer directly, please refer at:
+
+#Dialog Register
+Create an account = Create an account
+Username = Username
+Password = Password
+Confirm Password = Confirm Password
+Email = Email
+Please read this before you register = Please read this before you register
+Hi {username} = Hi {username}
+
+#Dialog lostPassword
+Lost Password... = Lost Password...
+Find the password using your email = Find the password using your email
+
+
+
+#Dialog Login
+Login = Login
+Username or Email = Username or Email
+Remember Me = Remember Me
+Third party = Third party
+Login and Register = Login and Register
+Your login information seems expired, please login again. Don't need to close the opening files, you can continue to save them after login. = Your login information seems expired, please login again. Don't need to close the opening files, you can continue to save them after login.
+
+#Dialog Reset Password
+Reset a password using your email = Reset a password using your email
+Your registered email = Your registered email
+
+#Dialog Reaction
+Re-send an activation code to your email = Re-send an activation code to your email
+
+#Dialog Invite
+Invite friends to register = Invite friends to register
+Your friend's email = Your friend's email
+
+#Dialog Add A New Parameter
+Add a new parameter = Add a new parameter
+Key = Key
+Value.new_para = Value.new_para
+In BOM = In BOM
+Add into BOM = Add into BOM
+Invalid key = Invalid key
+This field is required. = This field is required.
+
+#Dialog Change Your Password
+Change your password = Change your password
+Old password = Old password
+New Password = New Password
+Confirm Password = Confirm Password
+
+#Dialog Create New Design
+Save as a New Project = Save as a New Project
+Save as a schematic = Save as a schematic
+Save as Symbol = Save as Symbol
+Save as a spice Symbol = Save as a spice Symbol
+Save as a spice subckt = Save as a spice subckt
+YOU MUST CREATE A SPICE SYMBOL WITH EXACTLY THE SAME NAME AS THIS SUBCKT = YOU MUST CREATE A SPICE SYMBOL WITH EXACTLY THE SAME NAME AS THIS SUBCKT
+Save as a PCB file = Save as a PCB file
+Save as Footprint = Save as Footprint
+Save as a Schematic Module = Save as a Schematic Module
+Save as a PCB Module = Save as a PCB Module
+Save as 3D Model = Save as 3D Model
+Save as a WaveForm = Save as a WaveForm
+Do not allow saving to target project = Do not allow saving to target project
+Title = Title
+Share = Share
+Add file = Add file
+Visibility = Visibility
+Allow Comments = Allow Comments
+Public (Anyone can see this project but only you can modify it.) = Public (Anyone can see this project but only you can modify it.)
+Private (Only you can see and modify this project) = Private (Only you can see and modify this project)
+Create new project success! = Create new project success!
+You can now create files under this project = You can now create files under this project
+This file must be saved under a project, choose other project or create a new project = This file must be saved under a project, choose other project or create a new project
+Please login to save this kind of document = Please login to save this kind of document
+Duplicated project title = Duplicated project title
+#Duplicated document title =
+Project does not exist = Project does not exist
+Document does not exist = Document does not exist
+document not exists = document not exists
+
+Categories = Categories
+Project = Project
+Short description = Short description
+Content = Content
+Modify this project info. = Modify this project info.
+Modify this file info. = Modify this file info.
+Notice = Notice
+Search for it before creating a new one. = Search for it before creating a new one.
+Manufacturer Part Number = Manufacturer Part Number
+Supplier = Supplier
+Or = Or
+Supplier Part = Supplier Part
+Supplier Part Number = Supplier Part Number
+Link = Link
+link = link
+The professional function please refer at: = The professional function please refer at:
+
+#Dialog Clone My Part
+#Clone it to a project =
+#Clone it, then edit it =
+Clone your file = Clone your file
+
+#Dialog Subckt
+Attach a Subckt to this spice symbol = Attach a Subckt to this spice symbol
+Subckt string = Subckt string
+Spice symbol title just allow [0-9][a-z][A-Z] and _ = Spice symbol title just allow [0-9][a-z][A-Z] and _
+
+#Design Manager
+Design Manager = Design Manager
+Nets = Netten
+DRC Errors = DRC Errors
+Are you sure you want to unroute this net? = Are you sure you want to unroute this net?
+Unroute = Unroute
+Track Length = Track Length
+Via/Hole Outer Size = Via/Hole Outer Size
+Filter nets = Filter nets
+Design Rule Checking = Design Rule Checking
+Board Outline = Printplaatcontour
+Plane Zone = Plane Zone
+Non-Plated = Non-Plated
+Non-Plated Pad = Non-Plated Pad
+[drcRule]
+Width = Breedte
+DRC Width = DRC Width
+Length = Lengte
+DRC Length = DRC Length
+Drill Diameter = Drill Diameter
+DRC Drill Diameter = DRC Drill Diameter
+Diameter = Diameter
+DRC Diameter = DRC Diameter
+Object = Object
+DRC Clearance = DRC Clearance
+Clearance = Vrije ruimte
+[/drcRule]
+#It will take a while to unroute this net, do you want to continue? =
+More than one netlabel is found in wire, please checked whether this is correct, if you design it on purpose, please ignore this warning. = More than one netlabel is found in wire, please checked whether this is correct, if you design it on purpose, please ignore this warning.
+Incomplete net, a complete net should contain two or more pins, if you design it on purpose, please ignore this warning. = Incomplete net, a complete net should contain two or more pins, if you design it on purpose, please ignore this warning.
+This netlabel is not connected with any pin. = This netlabel is not connected with any pin.
+Incomplete connection, please check. = Incomplete connection, please check.
+The clearance between two objects is less than the Design Rule Checking (DRC) clearance which has different nets. = The clearance between two objects is less than the Design Rule Checking (DRC) clearance which has different nets.
+The diameter is less than Design Rule Checking (DRC) diameter = The diameter is less than Design Rule Checking (DRC) diameter
+The drill diameter is less than Design Rule Checking (DRC) drill diameter = The drill diameter is less than Design Rule Checking (DRC) drill diameter
+The track length is longer than Design Rule Checking (DRC) track length = The track length is longer than Design Rule Checking (DRC) track length
+The track width is less than Design Rule Checking (DRC) track width = The track width is less than Design Rule Checking (DRC) track width
+The pad is non-plated. Please check whether it is correct. = The pad is non-plated. Please check whether it is correct.
+
+#Dialog Simulation
+Show your simulation report = Show your simulation report
+Download netlist = Download netlist
+Run = Run
+Components = Componenten
+
+#Dialog Import
+Import file from your computer = Import file from your computer
+Maximum file size: 30 MB = Maximum file size: 30 MB
+Maximum file size: 100 MB = Maximum file size: 100 MB
+Chose file = Chose file
+File Operation = File Operation
+Import File = Import File
+Extract Libs = Extract Libs
+No Libs! = No Libs!
+Import File and Extract Libs = Import File and Extract Libs
+File type = File type
+The file size is too large. = The file size is too large.
+Please selected the file type. = Please selected the file type.
+No component was found! = No component was found!
+Import successfully = Import successfully
+Import failed = Import failed
+Click OK to continue with the import = Click OK to continue with the import
+Select None = Select None
+
+#Dialog Modify Symbol Information
+Modify symbol information = Modify symbol information
+Spice Prefix = Spice Prefix
+Hide Pin = Hide Pin
+Pin Manager = Pin Manager
+When a power pin is hidden, it will be marked as netlabel, you don't need to wire it. If you use it as simulation, please show it or create a GND/VCC Net for it. = When a power pin is hidden, it will be marked as netlabel, you don't need to wire it. If you use it as simulation, please show it or create a GND/VCC Net for it.
+Assign = Assign
+Supplier.bom = Supplier.bom
+LCSC.bom = LCSC.bom
+Price = Prijs
+Quantity.bom = Quantity.bom
+Package.bom = Package.bom
+Components.bom = Components.bom
+Manufacturer Part.bom = Manufacturer Part.bom
+Manufacturer.bom = Manufacturer.bom
+
+One-click Purchasing at LCSC = One-click Purchasing at LCSC
+Order Parts = Order Parts
+Export BOM = Export BOM
+Upload to LCSC ERP = Upload to LCSC ERP
+Order SMT Parts = Order SMT Parts
+No components, upload failed! = No components, upload failed!
+Upload to LCSC ERP failed, please try again later. = Upload to LCSC ERP failed, please try again later.
+Current BOM upload to Chip Manager of LCSC successfully, click "OK" button to access Chip Manager. = Current BOM upload to Chip Manager of LCSC successfully, click "OK" button to access Chip Manager.
+Upload to LCSC ERP failed, found some components miss some properties value, please check property "Footprint, Manufacturer Part" value if exist. = Upload to LCSC ERP failed, found some components miss some properties value, please check property "Footprint, Manufacturer Part" value if exist.
+Export PCB BOM = Export PCB BOM
+Export Schematic BOM = Export Schematic BOM
+ID.bom = ID.bom
+Name.bom = Name.bom
+[bom]
+Name = Naam
+LCSC Assembly = LCSC Assembly
+Value = Value
+ID = ID
+Supplier = Supplier
+LCSC = LCSC
+Price = Prijs
+Quantity = Aantal
+Package = Package
+Components = Componenten
+Manufacturer = Fabrikant
+[/bom]
+Manufacturer Part = Manufacturer Part
+Part Number = Artikelnummer
+Part Code = Part Code
+
+#Dialog Run
+Run your simulation = Run your simulation
+Transient = Transient
+Maximum Timestep = Maximum Timestep
+Stop Time = Stop Time
+Start Time = Start Time
+
+AC Analysis = AC Analysis
+Type of Sweep = Type of Sweep
+Number of points = Number of points
+Start Frequency = Start Frequency
+Stop Frequency = Stop Frequency
+
+DC sweep = DC sweep
+Source to Sweep = Source to Sweep
+Start Value = Start Value
+Stop Value = Stop Value
+Increment = Increment
+DC Transfer = DC Transfer
+Output = Output
+Source = Source
+
+DC op pnt = DC op pnt
+Compute the DC operating point treating capacitances as opens and inductances as shorts = Compute the DC operating point treating capacitances as opens and inductances as shorts
+
+#Dialog Share Info
+Active File = Active File
+Active Project = Active Project
+Readonly = Readonly
+Editable = Editable
+Active file's owner project page = Active file's owner project page
+Active project editor page = Active project editor page
+
+#Dialog Document Recovery
+All Projects = All Projects
+Document Recovery = Documentherstel
+Unsaved files = Unsaved files
+Please select a file! = Please select a file!
+Please expand the folder first, then select a document to recover. = Please expand the folder first, then select a document to recover.
+Are you sure you want to remove this backup? = Are you sure you want to remove this backup?
+
+#Dialog Find Libs
+Search = Zoeken
+Search Results = Search Results
+Search and press Enter = Search and press Enter
+Keywords at least 3 characters = Keywords at least 3 characters
+Assembled = Assembled
+Verified = Verified
+In stock = In stock
+{page} of {pagecount} pages = {page} of {pagecount} pages
+Common Modules = Common Modules
+User Contributions = User Contributions
+More = More
+Modify Model... = Modify Model...
+Add Favorite = Add Favorite
+Remove Favorite = Remove Favorite
+Add Sub Part = Add Sub Part
+Add Sub Parts... = Add Sub Parts...
+Please enter how many sub parts need to be added = Please enter how many sub parts need to be added
+Untagged = Untagged
+Package = Package
+package = package
+Title(PartNO) = Title(PartNO)
+No Data! = No Data!
+Quantity = Aantal
+Manufacturer Part = Manufacturer Part
+manufacturer Part = manufacturer Part
+Manufacturer = Fabrikant
+manufacturer = manufacturer
+voltage = voltage
+Library = Bibliotheek
+LCSC Assembled = LCSC Assembled
+JLCPCB Assembled = JLCPCB Assembled
+User Contributed = User Contributed
+Symbol = Symbool
+Follow = Follow
+Types = Types
+Classes = Classes
+power = power
+Power = Voeding
+LCSC Part# = LCSC Part#
+LCSC Stock = LCSC Stock
+Report Error... = Report Error...
+Report Error = Report Error
+Thanks for your feedback! = Thanks for your feedback!
+Report error success, thanks for your report! = Report error success, thanks for your report!
+The content must be at least 2 characters! = The content must be at least 2 characters!
+This library is user contributed, please check before using. = This library is user contributed, please check before using.
+[lib]
+All = All
+System = System
+Personal = Personal
+Created = Created
+Favorite = Favorite
+No Team found. Please join or create a team first. = No Team found. Please join or create a team first.
+Create a team = Create a team
+No follow user found. Please follow your friend first. = No follow user found. Please follow your friend first.
+[/lib]
+
+
+BUY = BUY
+In Stock = In Stock
+Out of Stock = Out of Stock
+Minimum = Minimum
+Distributor = Distributor
+
+Capacitance = Capaciteit
+Frequency Tolerance = Frequency Tolerance
+Power (Watts) = Power (Watts)
+Power - Max = Power - Max
+Frequency = Frequentie
+Voltage Rating(Vdc,Vac) = Voltage Rating(Vdc,Vac)
+Voltage = Spanning
+Current Rating = Current Rating
+Rated current = Rated current
+Resistance (Ohms) = Resistance (Ohms)
+Resistance(Ohms) = Resistance(Ohms)
+Inductance = Inductantie
+FET Type = FET Type
+Current Rating(Max) = Current Rating(Max)
+Impedance @ Frequency = Impedance @ Frequency
+Voltage - Input (Max) = Voltage - Input (Max)
+Voltage - Input (Min) = Voltage - Input (Min)
+Voltage - Supply = Voltage - Supply
+Voltage - Max = Voltage - Max
+Current - Output = Current - Output
+
+#Dialog Export Your Works
+Export your works = Export your works
+Export to = Export to
+Zoom = Zoomen
+Image Type = Image Type
+Qualify = Qualify
+0 means real size = 0 means real size
+Merged layer = Merged layer
+Separated layer = Separated layer
+Paged layer = Paged layer
+Layer = Laag
+Export = Exporteren
+Mirror = Spiegelen
+TopLayer = TopLayer
+BottomLayer = BottomLayer
+TopSilkLayer = TopSilkLayer
+Protractor Properties = Protractor Properties
+BottomSilkLayer = BottomSilkLayer
+
+BoardOutLine = BoardOutLine
+TopAssembly = TopAssembly
+BottomAssembly = BottomAssembly
+Mechanical = Mechanical
+DocumentLayer = DocumentLayer
+Inner{number} = Inner{number}
+Substrate{number} = Substrate{number}
+Color = Kleur
+Full Color = Full Color
+Canvas Setting = Canvas Setting
+Full Graphics = Full Graphics
+Assembly Drawings = Assembly Drawings
+Object Outlines = Object Outlines
+Invalid file format = Invalid file format
+Failed to export file = Failed to export file
+Download now = Download now
+Wire Width = Wire Width
+Sheet = Sheet
+Merged sheet = Merged sheet
+Separated sheet = Separated sheet
+Engine = Engine
+Exporting PDF = Exporting PDF
+Export 3D Model = Export 3D Model
+[exportDocument]
+Size = Afmeting
+[/exportDocument]
+
+#Dialog Import Changes
+Confirm Importing changes information = Confirm Importing changes information
+You can't undo this operation, Please run a Design Rule Checking (DRC) after this operation. = You can't undo this operation, Please run a Design Rule Checking (DRC) after this operation.
+Apply Changes = Apply Changes
+This is a simple Design Rule Checking (DRC). = This is a simple Design Rule Checking (DRC).
+It just can help you to find the obvious errors = It just can help you to find the obvious errors
+There are some unfinished nets, do you want to check the nets first? = There are some unfinished nets, do you want to check the nets first?
+Yes, Check Nets = Yes, Check Nets
+No, Keep Going = No, Keep Going
+
+#Dialog Layer Manager
+Configured = Configured
+Layer Name = Layer Name
+TopPasterLayer = TopPasterLayer
+BottomPasterLayer = BottomPasterLayer
+TopSolderLayer = TopSolderLayer
+BottomSolderLayer = BottomSolderLayer
+TopPasteMaskLayer = TopPasteMaskLayer
+BottomPasteMaskLayer = BottomPasteMaskLayer
+TopSolderMaskLayer = TopSolderMaskLayer
+BottomSolderMaskLayer = BottomSolderMaskLayer
+ComponentShapeLayer = ComponentShapeLayer
+LeadShapeLayer = LeadShapeLayer
+ComponentMarkingLayer = ComponentMarkingLayer
+Ratlines = Ratlines
+Ratlines Color = Ratlines Color
+Manage Colors = Manage Colors
+BoardOutline = BoardOutline
+Multi-Layer = Multi-Layer
+Hole = Gat
+DRCError = DRCError
+Setting = Setting
+Drawing area = Drawing area
+Export area = Export area
+Transparency(%) = Transparency(%)
+Copper Layer = Copper Layer
+Signal = Signaal
+Plane = Plane
+Non-Signal = Non-Signal
+Other = Other
+Please delete all the objects of the layers first! The layers are: = Please delete all the objects of the layers first! The layers are:
+You are converting Signal Layer to Plane Layer, There're some non-track objects remain on following layers. Please delete the objects manually on the canvas. = You are converting Signal Layer to Plane Layer, There're some non-track objects remain on following layers. Please delete the objects manually on the canvas.
+Please delete all the objects of this layer first! = Please delete all the objects of this layer first!
+
+#Dialog Fabrication Output
+Create Files = Create Files
+Check your {0}Gerber files{1} carefully before sending them to the factory = Check your {0}Gerber files{1} carefully before sending them to the factory
+Download free Gerber Viewer (gerbv) = Download free Gerber Viewer (gerbv)
+Before generating the Gerber files = Before generating the Gerber files
+Please check the packages size and orientation carefully. = Please check the packages size and orientation carefully.
+Please check for Design Rule Checking (DRC) errors in the Design Manager. = Please check for Design Rule Checking (DRC) errors in the Design Manager.
+Please rebuild the copper area after modifying tracks and packages. = Please rebuild the copper area after modifying tracks and packages.
+After generating the Gerber file, please use the {0}Gerber Viewer{1} to check whether it conforms to the design requirements. = After generating the Gerber file, please use the {0}Gerber Viewer{1} to check whether it conforms to the design requirements.
+Order PCB/SMT = Order PCB/SMT
+Found the complicated polygon that object cannot be generated at Gerber, please remove or replace = Found the complicated polygon that object cannot be generated at Gerber, please remove or replace
+ID: {id}, Object: {object}, Location: {location} = ID: {id}, Object: {object}, Location: {location}
+
+#Dialog DRC
+Item = Item
+Value = Value
+value = value
+Unit = Eenheid
+Track Width = Track Width
+Track to Track = Track to Track
+Track to Pad = Track to Pad
+Pad to Pad = Pad to Pad
+Via to Via = Via to Via
+Via Hole Size = Via Hole Size
+Realtime DRC = Realtime DRC
+{0} is too small! = {0} is too small!
+Invalid DRC Rule = Invalid DRC Rule
+Rule = Rule
+Via Diameter = Via Diameter
+Via Drill Diameter = Via Drill Diameter
+Net List = Net List
+Rule = Rule
+Set Rule = Set Rule
+Check Object to Copper Area = Check Object to Copper Area
+Show DRC Boundary while Routing = Show DRC Boundary while Routing
+Check Object to Board Outline = Check Object to Board Outline
+Rule name already exists! = Rule name already exists!
+You should not delete default rule! = You should not delete default rule!
+Rule list contains invalid rule setting! = Rule list contains invalid rule setting!
+Duplicate rule name exists! = Duplicate rule name exists!
+via diameter is smaller than via drill diameter! = via diameter is smaller than via drill diameter!
+Currently rule name is not allowed to contain magical characters like . and $ = Currently rule name is not allowed to contain magical characters like . and $
+Track Width (min) = Track Width (min)
+Clearance (min) = Clearance (min)
+Via Diameter (min) = Via Diameter (min)
+Via Drill Diameter (min) = Via Drill Diameter (min)
+Track Length (max) = Track Length (max)
+[drcRule]
+All = All
+[/drcRule]
+
+#Dialog Hotkey
+Change Canvas Unit = Change Canvas Unit
+Copy Selected Object(s) by Reference Point = Copy Selected Object(s) by Reference Point
+Fullscreen = Fullscreen
+Undo the Previous Draw = Undo the Previous Draw
+Set Canvas Origin by Coordinate = Set Canvas Origin by Coordinate
+Switch to the Next Signal Layer = Switch to the Next Signal Layer
+Switch to the Previous Signal Layer = Switch to the Previous Signal Layer
+Switch object to top layer or bottom layer = Switch object to top layer or bottom layer
+Cycle Forward to the Next Open Tabbed Document = Cycle Forward to the Next Open Tabbed Document
+Cycle Backward to the Previous Open Tabbed Document = Cycle Backward to the Previous Open Tabbed Document
+Switch to the Previous Layer(on the Numeric Keypad) = Switch to the Previous Layer(on the Numeric Keypad)
+Switch to the Next Layer(on the Numeric Keypad) = Switch to the Next Layer(on the Numeric Keypad)
+Toggle Layers Which is Not Active = Toggle Layers Which is Not Active
+Hotkey Setting = Hotkey Setting
+Document Type = Document Type
+Shortcut = Shortcut
+Function = Function
+ALL = ALL
+SCH = SCH
+Rotate Selected Objects = Rotate Selected Objects
+Scroll or Move Selected Left = Scroll or Move Selected Left
+Scroll or Move Selected Right = Scroll or Move Selected Right
+Scroll or Move Selected Up = Scroll or Move Selected Up
+Scroll or Move Selected Down = Scroll or Move Selected Down
+Set canvas origin to the center grid of graphics in symbol; Set canvas origin to the center of pads in footprint. = Set canvas origin to the center grid of graphics in symbol; Set canvas origin to the center of pads in footprint.
+Cross Document Paste = Cross Document Paste
+Explore & Find Components = Explore & Find Components
+Select All = Alles selecteren
+Cancel Current Drawing = Cancel Current Drawing
+Save = Opslaan
+Drag Tool = Drag Tool
+Draw Wire = Draw Wire
+Draw Bus = Draw Bus
+Bus Entry = Bus Entry
+Junction = Junction
+Net Flag GND = Net Flag GND
+Net Flag = Net Flag
+Draw Polyline = Draw Polyline
+Draw Polygon = Draw Polygon
+Draw Bezier = Draw Bezier
+Draw Arc = Draw Arc
+Draw Rect = Draw Rect
+Draw Ellipse = Draw Ellipse
+Freehand Draw = Freehand Draw
+Freedraw = Freedraw
+Draw Text = Draw Text
+Edit Selected Symbol = Edit Selected Symbol
+Draw Track = Draw Track
+Draw Circle = Draw Circle
+Cycle Select Object at Current Location = Cycle Select Object at Current Location
+Draw Dimension = Draw Dimension
+Draw Connect = Draw Connect
+Draw CopperArea = Draw CopperArea
+Change to TopLayer;<br/>Change Selected Component's Layer to TopLayer; = Change to TopLayer;<br/>Change Selected Component's Layer to TopLayer;
+Change to BottomLayer;<br/>Change Selected Component's Layer to BottomLayer; = Change to BottomLayer;<br/>Change Selected Component's Layer to BottomLayer;
+Change to Inner1 = Change to Inner1
+Change to Inner2 = Change to Inner2
+Change to Inner3 = Change to Inner3
+Change to Inner4 = Change to Inner4
+Highlight Net = Highlight Net
+Highlight Network = Highlight Network
+Unhighlight Network = Unhighlight Network
+Place Pad = Place Pad
+Place Via = Place Via
+Measure = Meten
+Change Routing Angle = Change Routing Angle
+Change Routing Conflict = Change Routing Conflict
+Decrease Routing Width = Decrease Routing Width
+Increase Routing Width = Increase Routing Width
+Decrease Snap Size = Decrease Snap Size
+Increase Snap Size = Increase Snap Size
+Change Copper Zone Visible or Invisible = Change Copper Zone Visible or Invisible
+Rebuild All Copper Area = Rebuild All Copper Area
+Toggle PCB Net Display = Toggle PCB Net Display
+Show Property Dialog When Placing Object;<br/>Show Location Setting Dialog When Pasting Object(s) = Show Property Dialog When Placing Object;<br/>Show Location Setting Dialog When Pasting Object(s)
+Show Property Dialog When Placing Object;<br/>Show Absolute Offset Dialog When Selecting Object(s);<br/>Show Location Setting Dialog When Pasting Object(s) = Show Property Dialog When Placing Object;<br/>Show Absolute Offset Dialog When Selecting Object(s);<br/>Show Location Setting Dialog When Pasting Object(s)
+Show Relative Offset Dialog When Selecting Object(s) = Show Relative Offset Dialog When Selecting Object(s)
+Open the FAQ Page = Open the FAQ Page
+Move Object(s) by Reference Point = Move Object(s) by Reference Point
+Choose Favorite Track Width While Routing = Choose Favorite Track Width While Routing
+Copy Selected Object(s) and Paste Repeatedly = Copy Selected Object(s) and Paste Repeatedly
+
+#My Projects Tree Menu
+New Project = Nieuw project
+New Schematic = New Schematic
+New PCB = New PCB
+New Spice Subckt = New Spice Subckt
+Modify = Modify
+Delete = Verwijderen
+Add sub part = Add sub part
+Clone = Clone
+Version History = Version History
+Refresh List = Refresh List
+Create New Project = Create New Project
+Delete = Verwijderen
+Attachment = Attachment
+Archive = Archive
+Transfer = Transfer
+Manage Project = Manage Project
+
+#Dialog Verify Package
+Footprints Verification = Footprints Verification
+
+#Dialog Edit Polygon Pad points
+Edit Points = Edit Points
+Center point is outside the pad = Center point is outside the pad
+Hole should be inside the pad = Hole should be inside the pad
+Hole is draggable = Hole is draggable
+
+#My Part Tree Menu
+Clone = Clone
+Reload parts = Reload parts
+Layers = Lagen
+
+#Dialog Preferences
+Language = Taal
+Display Name = Display Name
+HotKey Sync = HotKey Sync
+My Theme Sync = My Theme Sync
+Document Recovery Setting = Document Recovery Setting
+Enable auto backup = Enable auto backup
+Maximum backup level = Maximum backup level
+Auto backup interval = Auto backup interval
+days = days
+hours = hours
+minutes = minutes
+seconds = seconds
+Save to Server = Save to Server
+Load from Server = Load from Server
+
+
+#Dialog Schematic Library Wizard
+Symbol Wizard = Symbol Wizard
+Style = Style
+Picture = Picture
+Pin Names = Pin Names
+Contributor = Contributor
+contributor = contributor
+owner = owner
+
+#Dialog Annotate
+Annotate = Annotate
+Scope = Scope
+All pages = All pages
+Current page only = Current page only
+Selected components = Selected components
+All Opened Schematics = All Opened Schematics
+Method = Method
+Re-annotate all = Re-annotate all
+Keep existing annotation = Keep existing annotation
+Direction = Direction
+Rows = Rows
+Cols = Cols
+Reset = Herstellen
+
+#Dialog Order
+Order... = Order...
+PCB Qty. = PCB Qty.
+PCB Thickness = PCB Thickness
+PCB Dimension = PCB Dimension
+Automatic calculation = Automatic calculation
+PCB Color = PCB Color
+Green = Green
+White = White
+Blue = Blue
+Red = Red
+Yellow = Yellow
+Black = Black
+Purple = Purple
+Copper = Koper
+Gold = Gold
+Silver = Silver
+Surface Finish = Surface Finish
+Hasl = Hasl
+Hasl(Lead Free) = Hasl(Lead Free)
+ENIG = ENIG
+
+#Dialog Hot Key config
+Restore All Default Shortcuts = Restore All Default Shortcuts
+Save Changes = Save Changes
+
+
+
+#Dialog Polyline Maybe Wire
+To connect electrical elements, please use Wire (W hotkey) and not Line (L hotkey). = To connect electrical elements, please use Wire (W hotkey) and not Line (L hotkey).
+
+Anonymous File = Anonymous File
+Anonymous File can not be cloned, but you can open it, then save it as a new file. = Anonymous File can not be cloned, but you can open it, then save it as a new file.
+Free Documents = Free Documents
+You must close the file before delete it! = You must close the file before delete it!
+Offline Project = Offline Project
+
+#Message box
+Confirmation = Confirmation
+Alert = Alert
+Information = Informatie
+information = information
+Prompt = Prompt
+Error = Fout
+error = error
+error! = error!
+Warning = Waarschuwing
+Imported ok! = Imported ok!
+Some changes have not been saved. = Some changes have not been saved.
+Your file hasn't been saved. Please save first! = Your file hasn't been saved. Please save first!
+Your file hasn't been saved. Are you sure you want to close it? = Your file hasn't been saved. Are you sure you want to close it?
+Error! Please try again later. = Error! Please try again later.
+Are you sure you want to reload this page? = Are you sure you want to reload this page?
+Are you sure you want to leave this page? = Are you sure you want to leave this page?
+Confirm Reload = Confirm Reload
+Confirm Close = Confirm Close
+Reload this page = Reload this page
+Leave this page = Leave this page
+Stay on this page = Stay on this page
+Don't reload = Don't reload
+No connect flag only can be placed on Pin dot or the wire which is connected one Pin. = No connect flag only can be placed on Pin dot or the wire which is connected one Pin.
+can not be placed on the wire which is placing No Connect Flag. = can not be placed on the wire which is placing No Connect Flag.
+The footprint transfer to LCSC library class successfully = The footprint transfer to LCSC library class successfully
+Device/Footprint goes into "SMT Device/Footprint Verified" list successfully = Device/Footprint goes into "SMT Device/Footprint Verified" list successfully
+
+Load failure! = Load failure!
+Load projects failed = Load projects failed
+error info = error info
+error information = error information
+Guest can't create a new project. Please login! = Guest can't create a new project. Please login!
+Please create a project before you do this! = Please create a project before you do this!
+Add Part success = Add Part success
+Click the new part and then edit it! = Click the new part and then edit it!
+Delete my work = Delete my work
+Delete my work. (Only deletes it from this list but not from the server) = Delete my work. (Only deletes it from this list but not from the server)
+Do you confirm this? = Do you confirm this?
+Successfully deleted! = Successfully deleted!
+Successfully Copied! = Successfully Copied!
+Cloning success! = Cloning success!
+Your title is too short! = Your title is too short!
+Remove this part = Remove this part
+Find and Jump to ... = Find and Jump to ...
+Please type the prefix, such as U1, R1, C1 = Please type the prefix, such as U1, R1, C1
+Zoom as 1:1, you can print it and then create artwork for etching the PCB. = Zoom as 1:1, you can print it and then create artwork for etching the PCB.
+Exporting your works! = Exporting your works!
+Guests can't import a file. Please login! = Guests can't import a file. Please login!
+Please create a project before you import a file! = Please create a project before you import a file!
+Import your LTspice file! = Import your LTspice file!
+Open LTspice file = Open LTspice file
+Open EasyEDA file = Open EasyEDA file
+Please make sure the selected LTspice file is a file saved in LTspice V and above. = Please make sure the selected LTspice file is a file saved in LTspice V and above.
+Saved successfully! = Saved successfully!
+Save failed! = Save failed!
+Can not place parts into this document. = Can not place parts into this document.
+User Package = User Package
+System Package = System Package
+File error = File error
+Please save your file first! = Please save your file first!
+Email address is too short! = Email address is too short!
+You have not selected a file to upload. = You have not selected a file to upload.
+Update = Bijwerken
+No changes, the PCB already matches the schematic! = No changes, the PCB already matches the schematic!
+Only public files can be shared = Only public files can be shared
+Conversion to PCB has failed! = Conversion to PCB has failed!
+Your username is too short! = Your username is too short!
+Your password is too short, it must be more than 6 characters! = Your password is too short, it must be more than 6 characters!
+Conflicting shortcut = Conflicting shortcut
+There is an empty PCB file. Please first run Convert Schematic to PCB... from the schematic = There is an empty PCB file. Please first run Convert Schematic to PCB... from the schematic
+This file has been modified, are you sure you want to run this simulation before saving it first? = This file has been modified, are you sure you want to run this simulation before saving it first?
+Please enter the Maximum Timestep! = Please enter the Maximum Timestep!
+Please enter the Stop Time! = Please enter the Stop Time!
+All of these fields are needed. = All of these fields are needed.
+Either your spice netlist is too big or the server is busy. Please try again later. = Either your spice netlist is too big or the server is busy. Please try again later.
+Your spice netlist is too big! Try breaking your circuit into smaller simulatable blocks. = Your spice netlist is too big! Try breaking your circuit into smaller simulatable blocks.
+Too many users in simulation. Please try again later! = Too many users in simulation. Please try again later!
+Due to limited server resources, please wait 10 seconds for the interval in every time simulation. = Due to limited server resources, please wait 10 seconds for the interval in every time simulation.
+Your circuit is too complex, we have not enough CPU resource to support this simulation, please reduce your circuit as small as you can. = Your circuit is too complex, we have not enough CPU resource to support this simulation, please reduce your circuit as small as you can.
+Simulation is queuing, try again after 30s. = Simulation is queuing, try again after 30s.
+Timeout = Timeout
+Demo accounts don't support simulation, please login first = Demo accounts don't support simulation, please login first
+Please login first = Please login first
+The schematic is showing errors, please check the simulation report carefully! = The schematic is showing errors, please check the simulation report carefully!
+Simulation too long, maybe your schematic is too complex. = Simulation too long, maybe your schematic is too complex.
+Non-simulated file = Non-simulated file
+This file can only be opened in standard mode. To open it, please switch to standard mode. = This file can only be opened in standard mode. To open it, please switch to standard mode.
+Load your preferences success! = Load your preferences success!
+Save your preferences success! = Save your preferences success!
+Update subckt ok! = Update subckt ok!
+Clone your file = Clone your file
+Please type a new file name = Please type a new file name
+Create file failure! = Create file failure!
+Schematics and PCBs can't be imported under My Libs folder, please choose a different folder = Schematics and PCBs can't be imported under My Libs folder, please choose a different folder
+Libraries to be imported under My Libs folder = Libraries to be imported under My Libs folder
+Please choose only the libraries needed = Please choose only the libraries needed
+Maximum import is 200 libs at one time! = Maximum import is 200 libs at one time!
+You libraries will be found under the My Libs folder = You libraries will be found under the My Libs folder
+Add to Library = Add to Library
+No items have been checked! = No items have been checked!
+Nothing was found, please create it for yourself = Nothing was found, please create it for yourself
+Search result = Search result
+At least 3 characters needed = At least 3 characters needed
+Add to my Favorite Parts = Add to my Favorite Parts
+Added it OK. Please find it in your Favorite Parts = Added it OK. Please find it in your Favorite Parts
+Please select its parent node = Please select its parent node
+Libraries can not be exported as active project pdf. = Libraries can not be exported as active project pdf.
+Error:No GND = Error:No GND
+This circuit does not have GND. Please select GND from the circuit tool to add to the circuit. = This circuit does not have GND. Please select GND from the circuit tool to add to the circuit.
+This circuit doesn't have a Voltage Source or Current Source symbol. Please place one from the EElib or Spice Library on the left side. = This circuit doesn't have a Voltage Source or Current Source symbol. Please place one from the EElib or Spice Library on the left side.
+Probe can not connect with ground(GND)! = Probe can not connect with ground(GND)!
+Spice symbols's properties can't be empty. = Spice symbols's properties can't be empty.
+Error:No Spice Symbol = Error:No Spice Symbol
+Simulation limit = Simulation limit
+There is a multimeter in the circuit that needs to be simulated using the emulation command .tran or .op = There is a multimeter in the circuit that needs to be simulated using the emulation command .tran or .op
+An oscilloscope exists in the circuit and needs to be simulated using the simulation command .tran = An oscilloscope exists in the circuit and needs to be simulated using the simulation command .tran
+There are components in this circuit that do not have a simulation model. Please use the base library component of the simulation mode for simulation. = There are components in this circuit that do not have a simulation model. Please use the base library component of the simulation mode for simulation.
+Circuit does not have a probe = Circuit does not have a probe
+Make sure your pin numbers are even numbers = Make sure your pin numbers are even numbers
+Duplicate Components Prefix = Duplicate Components Prefix
+All components are hidden successfully! = All components are hidden successfully!
+All ratlines are hidden successfully! = All ratlines are hidden successfully!
+Hidden the ratline of net {netName} successfully! = Hidden the ratline of net {netName} successfully!
+Duplicate Component Prefix = Duplicate Component Prefix
+{0} exist = {0} exist
+Modify successfully, but {0} already exists = Modify successfully, but {0} already exists
+There are some invalid packages, are you sure? = There are some invalid packages, are you sure?
+Invalid Characters, library only allows [0-9a-zA-Z-_] = Invalid Characters, library only allows [0-9a-zA-Z-_]
+Annotation success = Annotation success
+If you accept this annotation operation, please save your files. If not, close your files without saving. = If you accept this annotation operation, please save your files. If not, close your files without saving.
+This file can't be saved under libs project. Please choose other project or create a new project = This file can't be saved under libs project. Please choose other project or create a new project
+Your file is unsaved. = Your file is unsaved.
+You can close the editor now. Have a good day! = You can close the editor now. Have a good day!
+Successfully logged out = Successfully logged out
+You have at least one unsaved file open. Please save it or close it. = You have at least one unsaved file open. Please save it or close it.
+Please select a reference point = Please select a reference point
+Please save your file before this operation = Please save your file before this operation
+Please open a PCB document = Please open a PCB document
+Please save your file before '{0}'. = Please save your file before '{0}'.
+Please try again after saving this file. = Please try again after saving this file.
+This text can not be empty! = This text can not be empty!
+Export to Altium fail, please try again or contact us. = Export to Altium fail, please try again or contact us.
+Connecting to server = Connecting to server
+Please login before asking for help = Please login before asking for help
+This file has been modified, please save it first! = This file has been modified, please save it first!
+Remove this param = Remove this param
+You cannot drag a part to the canvas, please click the part and move the cursor to the canvas and then right-click to place. = You cannot drag a part to the canvas, please click the part and move the cursor to the canvas and then right-click to place.
+Undo/Redo temporary error = Undo/Redo temporary error
+We are sorry but there is an unpredictable error in the undo/redo process. This problem will be fixed soon but in the meanwhile it is safe to continue working on your design. = We are sorry but there is an unpredictable error in the undo/redo process. This problem will be fixed soon but in the meanwhile it is safe to continue working on your design.
+The schematic has duplicate prefixes of the components, please make them unique. You can check them using the Design Manager. = The schematic has duplicate prefixes of the components, please make them unique. You can check them using the Design Manager.
+Found duplicated prefix components, can not Import Changes, please modify the duplicated prefix or delete related component. = Found duplicated prefix components, can not Import Changes, please modify the duplicated prefix or delete related component.
+Please click the below help button to find out how to fix this problem. = Please click the below help button to find out how to fix this problem.
+Please create a board outline! Click the help button to find out how to create a board outline. = Please create a board outline! Click the help button to find out how to create a board outline.
+Can not fetch files from server, please check your network and try again = Can not fetch files from server, please check your network and try again
+Please open a schematic first! = Please open a schematic first!
+Can not find the schematic of this PCB = Can not find the schematic of this PCB
+Invalid points! = Invalid points!
+This file does not support this operation. = This file does not support this operation.
+Net Name Conflict = Net Name Conflict
+Net name = Net name
+{0} are in the same wire, please remove others and just keep one. = {0} are in the same wire, please remove others and just keep one.
+This field can't be removed! = This field can't be removed!
+Annular ring of the pad/via is too small = Annular ring of the pad/via is too small
+The size of the hole cannot exceed the size of the pad = The size of the hole cannot exceed the size of the pad
+Are you sure you want to create a multi-sheet designs? = Are you sure you want to create a multi-sheet designs?
+Are you sure you want to create a {0}multi-sheet designs{1}? = Are you sure you want to create a {0}multi-sheet designs{1}?
+Please build the copper area! Click the help button to find out how to build the copper area. = Please build the copper area! Click the help button to find out how to build the copper area.
+Suggest to set a package for this component first! = Suggest to set a package for this component first!
+Please select an opened document first. = Please select an opened document first.
+Some files failed to load. Please reload the page. = Some files failed to load. Please reload the page.
+
+#UI Intro
+Skip = Skip
+« Back = « Back
+Next » = Next »
+Done = Done
+This is the user management menu. = This is the user management menu.
+This is the toolbar. = This is the toolbar.
+This is the navigation list. Under here you can find projects, files, parts and libraries. = This is the navigation list. Under here you can find projects, files, parts and libraries.
+Show or hide the toolbar to the top of the window here. = Show or hide the toolbar to the top of the window here.
+Show, resize or hide the left sidebar to the left of the window here. = Show, resize or hide the left sidebar to the left of the window here.
+Show or hide the right sidebar to the right of the window here. = Show or hide the right sidebar to the right of the window here.
+
+#Standard libs
+Passive Components = Passive Components
+Power Supply = Power Supply
+Diodes = Diodes
+Regulator = Regulator
+Transistor = Transistor
+Transformers = Transformers
+Gates = Gates
+Vacuum Tubes = Vacuum Tubes
+Switch = Switch
+Relay = Relay
+Capacitor(US) = Capacitor(US)
+Capacitor(EU) = Capacitor(EU)
+Capacitor(EU)2 = Capacitor(EU)2
+Electrolytic Capacitor(US) = Electrolytic Capacitor(US)
+Electrolytic Capacitor(EU) = Electrolytic Capacitor(EU)
+Electrolytic Capacitor(US)2 = Electrolytic Capacitor(US)2
+Electrolytic Capacitor(EU)2 = Electrolytic Capacitor(EU)2
+Inductor(US) = Inductor(US)
+Inductor(EU) = Inductor(EU)
+Potentiometer_US = Potentiometer_US
+Potentiometer_EU/IEC = Potentiometer_EU/IEC
+Potentiometer_3D = Potentiometer_3D
+Resistor(US) = Resistor(US)
+Resistor(EU) = Resistor(EU)
+Resistor 45 Deg(US) = Resistor 45 Deg(US)
+Resistor 45 Deg(EU) = Resistor 45 Deg(EU)
+Variable Capacitor(US) = Variable Capacitor(US)
+Variable Capacitor(EU) = Variable Capacitor(EU)
+Variable Resistor(US) = Variable Resistor(US)
+Variable Resistor(EU) = Variable Resistor(EU)
+Variable Inductor(US) = Variable Inductor(US)
+Variable Inductor(EU) = Variable Inductor(EU)
+Varistor = Varistor
+Inductor2(US) = Inductor2(US)
+Inductor2(EU) = Inductor2(EU)
+Battery = Battery
+Voltage Source = Voltage Source
+Current Source = Current Source
+CCCS(Current Controlled Current Source) = CCCS(Current Controlled Current Source)
+CCCS2(Current Controlled Current Source) = CCCS2(Current Controlled Current Source)
+VCCS(Voltage Controlled Current Source) = VCCS(Voltage Controlled Current Source)
+VCVS(Voltage Controlled Voltage Source) = VCVS(Voltage Controlled Voltage Source)
+CCVS(Current Controlled Voltage Source) = CCVS(Current Controlled Voltage Source)
+CCVS2(Current Controlled Voltage Source) = CCVS2(Current Controlled Voltage Source)
+
+BV(Behavioral Voltage Sources) = BV(Behavioral Voltage Sources)
+BI(Behavioral Voltage Sources) = BI(Behavioral Voltage Sources)
+Epoly(Non-linear Voltage Source) = Epoly(Non-linear Voltage Source)
+Gpoly(Non-linear Current Source) = Gpoly(Non-linear Current Source)
+
+Diode = Diode
+LED = LED
+LED_3D = LED_3D
+Schottky Diode = Schottky Diode
+Varactor Diode = Varactor Diode
+Zener = Zener
+Unidirectional TVS Diode = Unidirectional TVS Diode
+Bidirectional TVS Diode = Bidirectional TVS Diode
+Diac = Diac
+Bridge = Bridge
+78XX = 78XX
+79XX = 79XX
+LM317 = LM317
+LM337 = LM337
+TL431 = TL431
+BJT(NPN) = BJT(NPN)
+BJT(PNP) = BJT(PNP)
+MOSFET(Nch) = MOSFET(Nch)
+MOSFET(Nch) Depletion Four-pins = MOSFET(Nch) Depletion Four-pins
+MOSFET(Nch) Enhancement = MOSFET(Nch) Enhancement
+MOSFET(Nch) Enhancement Four-pins = MOSFET(Nch) Enhancement Four-pins
+MOSFET(Pch) = MOSFET(Pch)
+MOSFET(Pch) Depletion Four-pins = MOSFET(Pch) Depletion Four-pins
+MOSFET(Pch) Enhancement = MOSFET(Pch) Enhancement
+MOSFET(Pch) Enhancement Four-pins = MOSFET(Pch) Enhancement Four-pins
+JFET(Nch) = JFET(Nch)
+JFET(Pch) = JFET(Pch)
+Darlington NPN = Darlington NPN
+Darlington PNP = Darlington PNP
+MESFET(Nch) = MESFET(Nch)
+MESFET(Pch) = MESFET(Pch)
+
+IGBT = IGBT
+SCR = SCR
+Triac = Triac
+Transform(US) = Transform(US)
+Transform(EU) = Transform(EU)
+Transform(NEUTRAL-CTR TAP)(US) = Transform(NEUTRAL-CTR TAP)(US)
+Transform(NEUTRAL-CTR TAP)(EU) = Transform(NEUTRAL-CTR TAP)(EU)
+Mutual Inductors = Mutual Inductors
+Mutual Inductors2 = Mutual Inductors2
+Or Gate = Or Gate
+Xor Gate = Xor Gate
+And Gate = And Gate
+Nor Gate = Nor Gate
+Nand Gate = Nand Gate
+Not Gate = Not Gate
+Xnor Gate = Xnor Gate
+Tube Diode = Tube Diode
+Tube Triode = Tube Triode
+Tube Tetrode = Tube Tetrode
+Tube Pentode = Tube Pentode
+Voltage Controlled Switch = Voltage Controlled Switch
+Current Controlled Switch = Current Controlled Switch
+SPST ON = SPST ON
+SPST OFF = SPST OFF
+Fuse = Fuse
+555 = 555
+555(Style2) = 555(Style2)
+Speaker = Speaker
+XTAL = XTAL
+5pin Operational Amplifier = 5pin Operational Amplifier
+3pin Operational Amplifier = 3pin Operational Amplifier
+Transmission Line = Transmission Line
+Voltmeter = Voltmeter
+Ammeter = Ammeter
+LAMP = LAMP
+Opto Transistor = Opto Transistor
+
+#Server Message
+Need login = Need login
+Bad password = Bad password
+We can't find your username or your email, please check it! = We can't find your username or your email, please check it!
+Make sure your uploaded file size is less than 3MB! = Make sure your uploaded file size is less than 3MB!
+Bad file type = Bad file type
+Empty file or bad file type, ensure your file is Eagle 6.0+ = Empty file or bad file type, ensure your file is Eagle 6.0+
+This operation not supported on demo account = This operation not supported on demo account
+Can not share this file under a private project, please set the active project to public! = Can not share this file under a private project, please set the active project to public!
+Login Failed Too many attempts. If you forgot your password, please {0}reset your password{1} or send an email to support@easyeda.com = Login Failed Too many attempts. If you forgot your password, please {0}reset your password{1} or send an email to support@easyeda.com
+
+#Dialog Common Buttons
+Common Buttons Setting = Common Buttons Setting
+Menu Setting... = Menu Setting...
+Show/Hide = Show/Hide
+Move Up = Move Up
+Move Down = Move Down
+Reset All = Reset All
+Zoom = Zoomen
+Place Pin = Place Pin
+
+#System Setting Dialog
+System = System
+Zoom Mode = Zoom Mode
+Scroll Key = Scroll Key
+CTRL + Scroll = CTRL + Scroll
+Canvas Coordinate System = Canvas Coordinate System
+SVG Coordinate = SVG Coordinate
+Cartesian Coordinate = Cartesian Coordinate
+Open Wizard Dialog for New Schematic = Open Wizard Dialog for New Schematic
+Default Unit = Default Unit
+Canvas Zoom Effect = Canvas Zoom Effect
+Quality Priority = Quality Priority
+Speed Priority = Speed Priority
+Rotation Step = Rotation Step
+Add Teardrop Automatically = Add Teardrop Automatically
+Assign Net for Free Track/Arc/Circle = Assign Net for Free Track/Arc/Circle
+Open Wizard Dialog for New PCB = Open Wizard Dialog for New PCB
+Rebuild Plane Automatically = Rebuild Plane Automatically
+The Track's Routing Follows Component's Rotation = The Track's Routing Follows Component's Rotation
+Display Pad's Number and Net = Display Pad's Number and Net
+Favorite Track width = Favorite Track width
+Track Width Setting = Track Width Setting
+
+#Dialog Access Control
+Permissions = Permissions
+Operations = Operations
+Access Control = Access Control
+Project Access Control = Project Access Control
+Reject = Reject
+Add User = Add User
+Bad email address = Bad email address
+Permissions Error = Permissions Error
+
+#error info from backend
+Can't find this email address in EasyEDA. Your partner must be an EasyEDA user. = Can't find this email address in EasyEDA. Your partner must be an EasyEDA user.
+
+#Dialog waveForm
+Grid Background = Grid Background
+Pane Background = Pane Background
+WaveForm Config = WaveForm Config
+Export Waveform = Export Waveform
+
+
+#attr-canvas-grid-style
+dot = dot
+line = line
+
+#attr-canvas-frame-size
+Other = Other
+A4 Portrait = A4 Portrait
+A4 Landscape = A4 Landscape
+A3 Portrait = A3 Portrait
+A3 Landscape = A3 Landscape
+A2 Portrait = A2 Portrait
+A2 Landscape = A2 Landscape
+A1 Portrait = A1 Portrait
+A1 Landscape = A1 Landscape
+Landscape = Landscape
+Portrait = Portrait
+
+#Stroke Style
+solid = solid
+dashed = dashed
+dotted = dotted
+
+#Solid Region
+Solid Region = Solid Region
+Type = Type
+type = type
+
+#Dialog Libs Management
+Report error = Report error
+Please give us some information to help us find the problem. = Please give us some information to help us find the problem.
+Cannot place parts into this document: Schematic Symbols can only be placed into a Schematic; PCB Footprints can only be placed into a PCB. = Cannot place parts into this document: Schematic Symbols can only be placed into a Schematic; PCB Footprints can only be placed into a PCB.
+Save it as a favorite part = Save it as a favorite part
+Only logged-in users can save this component as a Favorite Part but guest (Anonymous) users can place this component into their design directly. Would you like to place this component now? = Only logged-in users can save this component as a Favorite Part but guest (Anonymous) users can place this component into their design directly. Would you like to place this component now?
+
+#Others
+Find libs = Find libs
+My Projects = My Projects
+My Parts = My Parts
+My Modules = My Modules
+Assembly LCSC Components = Assembly LCSC Components
+Modules = Modules
+SCH Module = SCH Module
+PCB Module = PCB-module
+System IC = System IC
+LCSC (Official) = LCSC (Official)
+LCSC Electronics = LCSC Electronics
+Simple Mode = Simple Mode
+Expand Mode = Expand Mode
+Help Verify = Help Verify
+Favorite Parts = Favorite Parts
+Shared With Me = Shared With Me
+Preview = Voorbeeld
+Preview Window = Preview Window
+System Default = System Default
+User Defined = User Defined
+Theme = Theme
+Theme Setting = Theme Setting
+Close = Sluiten
+Open = Openen
+Toggle toolbar = Toggle toolbar
+Toggle left bar = Toggle left bar
+Toggle right bar = Toggle right bar
+Reload = Reload
+Mouse-X = Mouse-X
+Mouse-Y = Mouse-Y
+Mouse-DX = Mouse-DX
+Mouse-DY = Mouse-DY
+Bus entry x1 = Bus entry x1
+Bus entry x2 = Bus entry x2
+Bus entry y1 = Bus entry y1
+Bus entry y2 = Bus entry y2
+Yes = Ja
+No = Nee
+OK = OK
+Confirm = Bevestigen
+Continue = Doorgaan
+Cancel = Annuleren
+Update = Bijwerken
+Bus entry = Bus entry
+Filter = Filteren
+Check = Controleren
+Share my work = Share my work
+Share it by e-mail, IM, blog, etc. = Share it by e-mail, IM, blog, etc.
+
+Copy the contents of this box into a text editor, then save the file. Paste the edited text back into this box and click Apply to update the display. = Copy the contents of this box into a text editor, then save the file. Paste the edited text back into this box and click Apply to update the display.
+Copy the contents of this box into a text editor, then save the file with a .svg extension. You can edit it in Inkscape or open it in your browser. = Copy the contents of this box into a text editor, then save the file with a .svg extension. You can edit it in Inkscape or open it in your browser.
+Content is too big to show, you can download it directly. = Content is too big to show, you can download it directly.
+SVG format = SVG format
+SVG File = SVG File
+Description should be no more than 250 letters = Description should be no more than 250 letters
+The file save operation has timed out. Try again and check your Internet connection. = The file save operation has timed out. Try again and check your Internet connection.
+Export Netlist = Export Netlist
+Notifications = Notifications
+Please select txt or json files. = Please select txt or json files.
+Please select EasyEDA files. = Please select EasyEDA files.
+Failed to read file [{file}] = Failed to read file [{file}]
+[{file}] is not a valid json file =
+Invalid parameters! = Invalid parameters!
+Download = Downloaden
+Start = Start
+You have unsaved files, are you sure you want to log out without saving the files? = You have unsaved files, are you sure you want to log out without saving the files?
+Please use the web version to run this function. = Please use the web version to run this function.
+Please save this file to your project! = Please save this file to your project!
+Nothing changed = Nothing changed
+Delete Node = Delete Node
+This layer is invisible. = This layer is invisible.
+When the solid region is Board Cutout, please set the layer to Multi-Layer. = When the solid region is Board Cutout, please set the layer to Multi-Layer.
+You should not try to assign a net to a Board Cutout solid region. = You should not try to assign a net to a Board Cutout solid region.
+Net Length = Net Length
+You can place a Pin in the schematic, but don't forget to group all of the Pins to a schematic component. Please click the help button to find out how to group them. If you just want to mark the wire, please use NetPort or NetLabel. = You can place a Pin in the schematic, but don't forget to group all of the Pins to a schematic component. Please click the help button to find out how to group them. If you just want to mark the wire, please use NetPort or NetLabel.
+Please input the modification = Please input the modification
+The content must be between {0} and {1} characters = The content must be between {0} and {1} characters
+Please input a number between {0} and {1} = Please input a number between {0} and {1}
+
+Coming soon = Coming soon
+No tool = No tool
+Help us translate into your language = Help us translate into your language
+Pad = Soldeerpad
+Via/Hole = Via/Hole
+PCB Layers = PCB Layers
+Order PCB = Order PCB
+Share = Share
+Free = Free
+Small = Small
+Medium = Medium
+Big = Big
+
+
+Embed = Embed
+HTML = HTML
+URL = URL
+BBCode = BBCode
+PNG = PNG
+Exporting as = Exporting as
+Exporting as image = Exporting as image
+Exporting as {0}SVG{1} file. = Exporting as {0}SVG{1} file.
+Exporting as pdf is recommended: pdf gives good quality printed output and a small file size. = Exporting as pdf is recommended: pdf gives good quality printed output and a small file size.
+Generate PCB Fabrication File(Gerber) = Generate PCB Fabrication File(Gerber)
+PenWidth-Increase = PenWidth-Increase
+
+#Generate Gerber
+Generate Gerber = Generate Gerber
+Gerber View = Gerber View
+Dimensions = Dimensions
+1-2 days = 1-2 days
+Build Time = Build Time
+Dimensions(Estimated) = Dimensions(Estimated)
+PCB Qty = PCB Qty
+Copper Weight = Copper Weight
+PCB Price = PCB Price
+Estimated Delivery Time = Estimated Delivery Time
+
+HASL(with lead) = HASL(with lead)
+LeadFree HASL-RoHS = LeadFree HASL-RoHS
+ENIG-RoHS = ENIG-RoHS
+Would you like to do Design Rule Checking (DRC) before generating the Gerber files? = Would you like to do Design Rule Checking (DRC) before generating the Gerber files?
+Yes, Check DRC = Yes, Check DRC
+No, Generate Gerber = No, Generate Gerber
+No, Continue to order = No, Continue to order
+This PCB has uncompleted connection(s), do you want to check the connection(s)? = This PCB has uncompleted connection(s), do you want to check the connection(s)?
+Yes, Check Connection(s) = Yes, Check Connection(s)
+It will then redirect to the web site of a third-party JLCPCB with which we cooperate. Are you ready? = It will then redirect to the web site of a third-party JLCPCB with which we cooperate. Are you ready?
+Failed to submit your order, please contact us via support@easyeda.com for help. = Failed to submit your order, please contact us via support@easyeda.com for help.
+Failed to submit your order, please contact us. = Failed to submit your order, please contact us.
+Order data(Gerber, Pick and Place file, BOM) generated finish, please click OK button and continue. = Order data(Gerber, Pick and Place file, BOM) generated finish, please click OK button and continue.
+[generateGerber]
+Layers = Lagen
+[/generateGerber]
+
+[version]
+Switch = Switch
+[/version]
+
+
+Export your file, then print it yourself. = Export your file, then print it yourself.
+Trace width is too small = Trace width is too small
+Share = Share
+
+Images Property = Images Property
+Connect Pad to Pad = Connect Pad to Pad
+Copper Area = Kopervlak
+Dimension = Dimension
+
+
+Please check that you have used Wire and not Line to connect electrical elements. = Please check that you have used Wire and not Line to connect electrical elements.
+PCB Fabrication Prices & capabilities = PCB Fabrication Prices & capabilities
+Flip all texts on bottom layer = Flip all texts on bottom layer
+Create New Document = Create New Document
+General Package = General Package
+General Packages = General Packages
+favorite Package = favorite Package
+Board Cutout = Board Cutout
+Surface Mount = Surface Mount
+JLCPCB Part Class = JLCPCB Part Class
+base = base
+expand = expand
+recommend = recommend
+Basic Part = Basic Part
+Extended Part = Extended Part
+Recommended Part = Recommended Part
+smtWeld = smtWeld
+thtWeld = thtWeld
+manualWeld = manualWeld
+furnaceWeld = furnaceWeld
+Multi-Layer = Multi-Layer
+Markdown Syntax = Markdown Syntax
+Markdown supported = Markdown supported
+Read only = Read only
+Read/Write = Read/Write
+More Libraries... = More Libraries...
+Decompress failed! = Decompress failed!
+Load failed! = Load failed!
+Loading = Loading
+No Result = No Result
+
+#Dialog Place Pin in schematic warning
+Place Pin in schematic warning = Place Pin in schematic warning
+You can place a Pin in schematic, but don't forget to group all of the Pins to a schematic component, please click the help button to find out how to group them. If you just want to mark the wire, please use NetPort or NetLabel. = You can place a Pin in schematic, but don't forget to group all of the Pins to a schematic component, please click the help button to find out how to group them. If you just want to mark the wire, please use NetPort or NetLabel.
+I know. Do not show this again. = I know. Do not show this again.
+
+#Extensions Setting
+Extensions Setting = Extensions Setting
+Remove = Verwijderen
+Disable = Uitschakelen
+Enable = Inschakelen
+(Disabled) = (Disabled)
+(Enabled) = (Enabled)
+Load Extension = Load Extension
+Enable or disable will be applied after reload page = Enable or disable will be applied after reload page
+Your browser cannot run this function. = Your browser cannot run this function.
+Your browser mode does not support indexedDB. Some features may not work properly. Are you using Private Browsing Mode? = Your browser mode does not support indexedDB. Some features may not work properly. Are you using Private Browsing Mode?
+Extension Files = Extension Files
+Extension ID = Extension ID
+Select Files = Select Files
+
+#Scripts
+Script = Script
+Scripts = Scripts
+Script Content = Script Content
+Load from js file = Load from js file
+UTF-8 encoded js file = UTF-8 encoded js file
+Description = Beschrijving
+description = description
+Not a *.js file = Not a *.js file
+Failed to read file = Failed to read file
+System scripts cannot be modified = System scripts cannot be modified
+Create Subfolder = Create Subfolder
+Create Script = Create Script
+Install Script = Install Script
+Install = Install
+Desktop Client = Desktop Client
+Are you sure you want to remove this script? = Are you sure you want to remove this script?
+Folder Name = Folder Name
+Rename = Rename
+Please select a script = Please select a script
+Failed to load script = Failed to load script
+Run Script = Run Script
+Load Script = Load Script
+Title is required = Title is required
+Script content is required = Script content is required
+System Scripts = System Scripts
+User Scripts = User Scripts
+You can right click on the tree nodes. = You can right click on the tree nodes.
+
+#PCB photoView toolbar
+Top Side = Top Side
+Bottom Side = Bottom Side
+With Silk Layer = With Silk Layer
+No Silk Layer = No Silk Layer
+Photo View = Photo View
+
+#check update
+Check Update = Check Update
+EasyEDA Editor {ver} is released. Would you like to switch to the new version now? = EasyEDA Editor {ver} is released. Would you like to switch to the new version now?
+JLCEDA Editor {ver} is released. Would you like to switch to the new version now? = JLCEDA Editor {ver} is released. Would you like to switch to the new version now?
+Switch to New Version = Switch to New Version
+Next Time = Next Time
+
+#download project dialog
+Generating download link... = Generating download link...
+Download project now = Download project now
+
+#Import DXF
+Import DXF = Import DXF
+Apply Unit = Apply Unit
+Convert circle to HOLE on BoardOutLine layer = Convert circle to HOLE on BoardOutLine layer
+No shapes found = No shapes found
+Fail to load the file = Fail to load the file
+Please select a DXF file. = Please select a DXF file.
+This feature only works for PCB document. = This feature only works for PCB document.
+Select a DXF file = Select a DXF file
+
+#Export DXF
+Export DXF = Export DXF
+Plated-Through-Hole Pads = Plated-Through-Hole Pads
+Non-Plated-Through-Hole Pads = Non-Plated-Through-Hole Pads
+Silkscreen = Opdruk
+Surface Pad = Surface Pad
+
+#Data Sync
+Data Sync = Data Sync
+Data Conflicts = Data Conflicts
+Project or Document = Project or Document
+Cloud-Side = Cloud-Side
+Local-Side = Local-Side
+Decision = Decision
+Modified = Modified
+Deleted = Deleted
+As Cloud = As Cloud
+As Local = As Local
+Skip = Skip
+Data sync completed = Data sync completed
+
+#Team
+Team = Team
+Teams = Teams
+Switching team = Switching team
+Switch team failed = Switch team failed
+Load team info fail! = Load team info fail!
+Load team info fail! Please reload. = Load team info fail! Please reload.
+My Teams = My Teams
+Create Team = Create Team
+
+#Dialog Footprint Manager
+Footprint Manager = Footprint Manager
+Open Footprint Manager = Open Footprint Manager
+Schematic Components = Schematic Components
+Edit Pin Map Information = Edit Pin Map Information
+Package Categories = Package Categories
+Components List = Components List
+Personal = Personal
+Component PIN information = Component PIN information
+Footprint PAD information = Footprint PAD information
+Footprint Categories = Footprint Categories
+Pad Number = Pad Number
+Search Footprint = Search Footprint
+Select Footprint = Select Footprint
+Search 3D Model = Search 3D Model
+Select 3D Model = Select 3D Model
+Filter by keyword = Filter by keyword
+System Libs = System Libs
+
+#dialog global delete
+Drawings = Drawings
+Netlabel and netFlag = Netlabel and netFlag
+Texts = Texts
+Wires = Draden
+Board outlines = Board outlines
+Footprints = Footprints
+Footprint = Footprint
+Tracks = Sporen
+
+#dialog board outline settings
+Current Size = Current Size
+Parameters = Parameters
+Start X: = Start X:
+Start Y: = Start Y:
+Round Rectangular = Round Rectangular
+radius = radius
+only number is allowed! = only number is allowed!
+please input valid value of width! = please input valid value of width!
+please input valid value of height! = please input valid value of height!
+please input valid value of radius! = please input valid value of radius!
+
+#cross probe
+The object you selected was not found in other documents. = The object you selected was not found in other documents.
+No valid object for cross probe selected. = No valid object for cross probe selected.
+Can not probe. Refreshing the window may get it to work. = Can not probe. Refreshing the window may get it to work.
+You need to login for this function to work. = You need to login for this function to work.
+
+#About Dialog
+An Easier EDA Experience = An Easier EDA Experience
+Version = Version
+BuiltDate = BuiltDate
+
+#Auto Router Dialog
+Auto Router Config = Auto Router Config
+General Options = General Options
+All Layers = All Layers
+Configure = Configure
+Sorry, your web browser does not support this feature. Please run a modern browser. = Sorry, your web browser does not support this feature. Please run a modern browser.
+Please make sure all objects with net are inside the board outline! = Please make sure all objects with net are inside the board outline!
+Cannot start again before previous activity is stopped = Cannot start again before previous activity is stopped
+Please select a net = Please select a net
+TrackWidth cannot be empty = TrackWidth cannot be empty
+Clearance cannot be empty = Clearance cannot be empty
+Router is time out. = Router is time out.
+Server is busy, please try again later. = Server is busy, please try again later.
+Due to the limitation of {0}router server{1} resources, multiple routers executing concurrently are not supported, please try again later or do it manually :-) = Due to the limitation of {0}router server{1} resources, multiple routers executing concurrently are not supported, please try again later or do it manually :-)
+Track Width is invalid = Track Width is invalid
+General Clearance is invalid = General Clearance is invalid
+SMD Clearance is invalid = SMD Clearance is invalid
+Diameter is invalid = Diameter is invalid
+Drill Diameter is invalid = Drill Diameter is invalid
+Track width cannot be less than Design Rule Checking (DRC) setting value. = Track width cannot be less than Design Rule Checking (DRC) setting value.
+General Clearance cannot be less than Design Rule Checking (DRC) setting value. = General Clearance cannot be less than Design Rule Checking (DRC) setting value.
+SMD Clearance cannot be less than Design Rule Checking (DRC) setting value. = SMD Clearance cannot be less than Design Rule Checking (DRC) setting value.
+Hole size cannot be less than Design Rule Checking (DRC) setting value. = Hole size cannot be less than Design Rule Checking (DRC) setting value.
+Design Rule's via diameter must be larger than via drill diameter = Design Rule's via diameter must be larger than via drill diameter
+Clearance cannot be less than Design Rule Checking (DRC) setting value. = Clearance cannot be less than Design Rule Checking (DRC) setting value.
+Not a valid PCB, please check it again = Not a valid PCB, please check it again
+Previous connection must be closed = Previous connection must be closed
+Network error. Please try again. = Network error. Please try again.
+Router error. = Router error.
+Invalid PCB. = Invalid PCB.
+General Clearance = General Clearance
+SMD Clearance = SMD Clearance
+#Ripup Nets =
+Skip Routed Nets = Skip Routed Nets
+Remove Existing Tracks = Remove Existing Tracks
+Real-time Display = Real-time Display
+Router Layers = Router Layers
+Via = Via
+Special = Special
+Special Nets = Special Nets
+Skip Nets = Skip Nets
+Router Server = Router Server
+Local = Local
+Cloud = Cloud
+Available = Available
+Unavailable = Unavailable
+Checking = Checking
+Install Local Auto Router = Install Local Auto Router
+Checking local auto router server... = Checking local auto router server...
+Stop Router = Stop Router
+Auto Router is running... = Auto Router is running...
+
+#Left Sidebar
+Common Library = Common Library
+Basic = Basic
+Extend = Extend
+Design Manager = Design Manager
+Library = Bibliotheek
+Spice Library = Spice Library
+Shared = Shared
+LCSC = LCSC
+LCSC Parts = LCSC Parts
+Supply Flag = Supply Flag
+US = US
+EU/IEC = EU/IEC
+US Style = US Style
+Resistor = Resistor
+Capacitor = Capacitor
+Inductor = Inductor
+Switch/Key = Switch/Key
+EU/IEC Style = EU/IEC Style
+CN = CN
+Connector = Connector
+Switch/Relay = Switch/Relay
+JLCPCB = JLCPCB
+Recycle Bin = Recycle Bin
+
+#Protractor
+Font Height = Font Height
+Precision = Precision
+Protractor = Protractor
+
+#attr-pcbtext-line-width
+Only default font family supports to change font width. = Only default font family supports to change font width.
+Font is missing! You can confirm the dialog and use default font instead or cancel the dialog then upload your font and do it again. = Font is missing! You can confirm the dialog and use default font instead or cancel the dialog then upload your font and do it again.
+
+#Common
+Owner = Owner
+License = License
+Part Pins = Part Pins
+Part Properties = Part Properties
+Net Pins = Net Pins
+Net Ratlines = Net Ratlines
+Add Parameter = Add Parameter
+Histories record = Histories record
+Create Team = Create Team
+Can't find this footprint on the server, please re-associate it. = Can't find this footprint on the server, please re-associate it.
+The footprint name associated with the component and the footprint name on the server are inconsistent, please re-associate it. = The footprint name associated with the component and the footprint name on the server are inconsistent, please re-associate it.
+The symbol pin number(s) of the component does not match the associated footprint pad number(s), please modify the symbol pin number(s) or re-associate the footprint = The symbol pin number(s) of the component does not match the associated footprint pad number(s), please modify the symbol pin number(s) or re-associate the footprint
+No footprint, please associate the footprint first. = No footprint, please associate the footprint first.
+Can't find the package = Can't find the package
+The path is for the project URL identify, it is unique (the identity of the project owned by the user cannot be the same) = The path is for the project URL identify, it is unique (the identity of the project owned by the user cannot be the same)
+It's with a letter or a number and can contain only numbers, letters, line-through, underscores, and points. It cannot be modified after saving. = It's with a letter or a number and can contain only numbers, letters, line-through, underscores, and points. It cannot be modified after saving.
+Updating document to new format, please wait......After finishing please save your document with Ctrl + S. = Updating document to new format, please wait......After finishing please save your document with Ctrl + S.
+Open at current project? = Open at current project?
+Please select a history to recover. = Please select a history to recover.
+Be careful! When you click the "Recover" button, this sheet will be overwritten! = Be careful! When you click the "Recover" button, this sheet will be overwritten!
+Recover = Recover
+There is no PCB under this project, would you like to create one? = There is no PCB under this project, would you like to create one?
+Please make sure that the chose Altium Designer files are saved as ASCII files. = Please make sure that the chose Altium Designer files are saved as ASCII files.
+Export to Altium function is currently in beta: = Export to Altium function is currently in beta:
+1. Please be sure to read the notice before exporting: = 1. Please be sure to read the notice before exporting:
+Export Altium notice and disclaimer = Export Altium notice and disclaimer
+2. Please be sure to check again after export! = 2. Please be sure to check again after export!
+I have read and agree = I have read and agree
+Export to Altium = Export to Altium
+Please make sure that the chose Eagle files are saved in Eagle v6.0 and above. = Please make sure that the chose Eagle files are saved in Eagle v6.0 and above.
+Please make sure that the Kicad files were compressed as the .zip file. = Please make sure that the Kicad files were compressed as the .zip file.
+Open Altium Designer file = Open Altium Designer file
+The more information please refer at : = The more information please refer at :
+Please use Gerber file instead of exporting Altium if you are going to do PCB manufacturing. All PCB factories support the Gerber file. Is it ok to Generate the Gerber file? = Please use Gerber file instead of exporting Altium if you are going to do PCB manufacturing. All PCB factories support the Gerber file. Is it ok to Generate the Gerber file?
+Yes, Generate Gerber = Yes, Generate Gerber
+No, Export Altium = No, Export Altium
+Open Eagle file = Open Eagle file
+Open Kicad file = Open Kicad file
+Select file(s) = Select file(s)
+Append to current project? = Append to current project?
+Append = Append
+Open as new project = Open as new project
+Tip: Press {0}SPACE{1} or {2}R{3} to rotate the placing object or selected object. = Tip: Press {0}SPACE{1} or {2}R{3} to rotate the placing object or selected object.
+Hotkeys Setting = Hotkeys Setting
+I know. Don't show this again. = I know. Don't show this again.
+Manufacturer Part Number can not be less than 2 characters. = Manufacturer Part Number can not be less than 2 characters.
+This prefix was changed to non-subpart format. = This prefix was changed to non-subpart format.
+Save as New Project = Save as New Project
+Save to Existing Project = Save to Existing Project
+Sheet Setting = Sheet Setting
+Sheet Size = Sheet Size
+Pre = Pre
+pre = pre
+Invalid Data = Invalid Data
+Others = Others
+You are not authorized to share this project. = You are not authorized to share this project.
+This project is private: if you continue sharing it will be made public. = This project is private: if you continue sharing it will be made public.
+Modify file info = Modify file info
+Please input search keyword = Please input search keyword
+Sort Projects by = Sort Projects by
+Date Created = Date Created
+Date Modified = Date Modified
+Title = Title
+Ascending = Oplopend
+Descending = Aflopend
+Pin to Top = Pin to Top
+Unpin from Top = Unpin from Top
+Collapse / Expand = Collapse / Expand
+Expand = Expand
+Expand All = Expand All
+Collapse = Collapse
+Collapse All = Collapse All
+Your file hasn't been saved, do you want to save it? = Your file hasn't been saved, do you want to save it?
+Don't Save = Don't Save
+Library Owner: = Library Owner:
+verifyPkg.Value = verifyPkg.Value
+State = State
+Please select! = Please select!
+Route = Routeren
+Import successfully: = Import successfully:
+Import failed: = Import failed:
+Path only contain 'a-z、A-Z、- 、 _ 、0-9'! = Path only contain 'a-z、A-Z、- 、 _ 、0-9'!
+Path must begin as 'a-z、A-Z、0-9'! = Path must begin as 'a-z、A-Z、0-9'!
+The path length must be between 4~128 characters! = The path length must be between 4~128 characters!
+The title length must be between 2 ~ 128 characters. = The title length must be between 2 ~ 128 characters.
+Please select an owner = Please select an owner
+Please select obj, wrl or zip file. = Please select obj, wrl or zip file.
+Do you want to delete this file? = Do you want to delete this file?
+Add sub part success = Add sub part success
+Please input name and prefix! = Please input name and prefix!
+Board outlines are not closed = Board outlines are not closed
+Import failed! The imported files were not ASCII format, please save the files as "Advanced Schematic ascii(*.SchDoc)" or"PCB ASCII File(*.PcbDoc)" at Altium Designer first, and then import. = Import failed! The imported files were not ASCII format, please save the files as "Advanced Schematic ascii(*.SchDoc)" or"PCB ASCII File(*.PcbDoc)" at Altium Designer first, and then import.
+The Pins "{0}" are not snapped on the grid point! This part maybe will cause some errors in the schematic. = The Pins "{0}" are not snapped on the grid point! This part maybe will cause some errors in the schematic.
+Save failed! Pin number doesn't allow repeat! As below pin number repeat: {0} = Save failed! Pin number doesn't allow repeat! As below pin number repeat: {0}
+Check Pin = Check Pin
+Failed to read {0} = Failed to read {0}
+{0} is invalid = {0} is invalid
+{0} not found = {0} not found
+Failed to execute script: = Failed to execute script:
+One or more js files not found = One or more js files not found
+Only ONE {0} file is required = Only ONE {0} file is required
+Extension ID is required = Extension ID is required
+Extension ID is invalid = Extension ID is invalid
+Extension ID is duplicated = Extension ID is duplicated
+No Result! = No Result!
+Load Error = Load Error
+loading = loading
+Failed to load spice data = Failed to load spice data
+Netlist = Netlist
+Tags = Tags
+Pin Information: = Pin Information:
+Format incorrect, please check for the extra spaces or commas! = Format incorrect, please check for the extra spaces or commas!
+Round Radius = Round Radius
+Keyword: = Keyword:
+Image = Afbeelding
+Image copied. = Image copied.
+Copy failed. = Copy failed.
+Copy success. = Copy success.
+Image Property = Image Property
+Locked = Locked
+Unlock All = Unlock All
+Unlock = Ontgrendelen
+Lock = Vergrendelen
+Please input pin name and pin number! = Please input pin name and pin number!
+Left-Hand Panel = Left-Hand Panel
+Right-Hand Panel = Right-Hand Panel
+Update Components from Library = Update Components from Library
+The pin number(s) can't find the same pad number(s) = The pin number(s) can't find the same pad number(s)
+Designator = Designator
+Replace = Replace
+Update failed = Update failed
+Successfully updated = Successfully updated
+Update failed! = Update failed!
+Successfully updated! = Successfully updated!
+Successfully updated {0} component(s)! = Successfully updated {0} component(s)!
+Change = Change
+Check Footprints = Check Footprints
+Network Error! = Network Error!
+Find Similar Objects = Find Similar Objects
+Current Sheet = Current Sheet
+All Sheets = All Sheets
+Kind = Kind
+Range = Range
+Net Label/Net Flag/Net Port/Voltage Probe = Net Label/Net Flag/Net Port/Voltage Probe
+Bezier/Freehand Draw = Bezier/Freehand Draw
+Arc/Pie = Arc/Pie
+Objects Properties = Objects Properties
+Any = Any
+Same = Same
+Different = Different
+Circular = Circular
+Expose Copper = Expose Copper
+"{0}" font is missing. Please add the font to the font family list. = "{0}" font is missing. Please add the font to the font family list.
+Place Component = Place Component
+Delete Segment = Delete Segment
+Angle = Hoek
+Board Thickness = Board Thickness
+Layer Distance = Layer Distance
+Silk Screen = Silk Screen
+Surface Finish Color = Surface Finish Color
+Colors = Colors
+Board Color = Board Color
+Board Side = Board Side
+Silk Screen = Silk Screen
+Silk Screen Color = Silk Screen Color
+Display = Display
+
+#Array and Clone
+Distribute Array = Distribute Array
+Array Type = Array Type
+Matrix Array = Matrix Array
+Circular Array = Circular Array
+Item Rotation = Item Rotation
+Location = Location
+Items per Column = Items per Column
+Items per Row = Items per Row
+#Column Spacing =
+#Row Spacing =
+Spacing(Degrees) = Spacing(Degrees)
+Start Degree = Start Degree
+Rotate Item to Match = Rotate Item to Match
+Clockwise = Clockwise
+Anti-Clockwise = Anti-Clockwise
+Distribute by = Distribute by
+Column = Column
+Row = Row
+Array Clone = Array Clone
+Number of Rows = Number of Rows
+Number of Columns = Number of Columns
+Number of Copies = Number of Copies
+Distribute Range(Degrees) = Distribute Range(Degrees)
+
+#Theme color dialog
+BusEntry = BusEntry
+Foreground = Foreground
+Common Used = Common Used
+Original Theme = Original Theme
+Theme Setting = Theme Setting
+Change the theme colors of your design = Change the theme colors of your design
+White on Black = White on Black
+Black on White = Black on White
+Custom Theme = Custom Theme
+Color Setting = Color Setting
+Apply Setting = Apply Setting
+Theme Setting... = Theme Setting...
+Bus Entry = Bus Entry
+Symbol Graphics = Symbol Graphics
+Common Used = Common Used
+Draw = Draw
+Sheet = Sheet
+The original theme only works for placing the new symbols. = The original theme only works for placing the new symbols.
+Selection Highlight = Selection Highlight
+Net Label / Port = Net Label / Port
+
+My Theme = My Theme
+My Theme Settings = My Theme Settings
+Apply 'Custom Theme' On = Apply 'Custom Theme' On
+Creating New Schematic = Creating New Schematic
+Opening Existed Schematic = Opening Existed Schematic
+Please fill in all parameters! = Please fill in all parameters!
+Convert to Board Cutout = Convert to Board Cutout
+Prefix Position = Prefix Position
+Name Position = Name Position
+Center = Center
+Top = Boven
+Bottom = Onder
+Left = Links
+Right = Rechts
+Does not support multiple objects to convert to Board Cutout at the same time = Does not support multiple objects to convert to Board Cutout at the same time
+Does not support multiple objects to convert to pad at the same time = Does not support multiple objects to convert to pad at the same time
+Convert to Board Cutout = Convert to Board Cutout
+Convert to Pad = Convert to Pad
+Convert to Component Shape = Convert to Component Shape
+Combine to Continuous Track = Combine to Continuous Track
+Convert to Solid Region = Convert to Solid Region
+Substrate = Substrate
+3D View = 3D-weergave
+2D View = 2D View
+Pin Color = Pin Color
+Name Color = Name Color
+Number Color = Number Color
+Dot = Dot
+
+[theme]
+Sheet = Sheet
+[/theme]
+
+
+#history dialog
+[history-dlg]
+Number = Number
+Editor = Editor
+[/history-dlg]
+View File History = View File History
+Save Time = Save Time
+
+Invalid Format = Invalid Format
+
+#Dialog Teardrop
+Round Pad / Via = Round Pad / Via
+Rectangle / Oval / Polygon Pad = Rectangle / Oval / Polygon Pad
+Applying Teardrops = Applying Teardrops
+Removing Teardrops = Removing Teardrops
+Waiting = Waiting
+Progressing... = Progressing...
+
+No schematic in the project! = No schematic in the project!
+
+Move Forward = Move Forward
+Move Backward = Move Backward
+
+#Dialog Panelize
+V-CUT = V-CUT
+Stamp Hole = Stamp Hole
+No Panelize = No Panelize
+Border and Marking = Border and Marking
+Create Border = Create Border
+Border Height = Border Height
+Border Position = Border Position
+Create Positioning Holes = Create Positioning Holes
+Create Fiducial Marks = Create Fiducial Marks
+Top and Bottom = Top and Bottom
+Left and Right = Left and Right
+Stamp Hole Group - Column = Stamp Hole Group - Column
+Stamp Hole Group - Row = Stamp Hole Group - Row
+The number of rows and columns cannot be set to 1 simultaneously = The number of rows and columns cannot be set to 1 simultaneously
+When panelize number is 1 x 1, you need to enable the "Create Boarder" = When panelize number is 1 x 1, you need to enable the "Create Boarder"
+
+#edit path point
+[editPathPoints-dlg]
+Arc(R) = Arc(R)
+Type = Type
+Action = Action
+add before = add before
+add after = add after
+delete = delete
+[/editPathPoints-dlg]
+
+#edit polygon point
+[editPolygonPoints-dlg]
+Action = Action
+add before = add before
+add after = add after
+delete = delete
+[/editPolygonPoints-dlg]
+You have unconfirmed edit! = You have unconfirmed edit!
+Invalid edit! = Invalid edit!
+
+#Dialog PCB Information
+PCB Information... = PCB Information...
+Signal Layers = Signal Layers
+None Signal Layers = None Signal Layers
+Pads = Soldeerpads
+Surface Pads = Surface Pads
+Plated Through-hole Pads = Plated Through-hole Pads
+None Plated Through-hole Pads = None Plated Through-hole Pads
+Holes = Gaten
+Vias = Via's
+Length of Tracks = Length of Tracks
+Copper Areas = Copper Areas
+
+#Differential Pair Routing
+Differential Pair Routing = Differential Pair Routing
+Differential Pair Rule Setting = Differential Pair Rule Setting
+Please input track width = Please input track width
+Please input clearance = Please input clearance
+Routing Rules = Routing Rules
+
+#Route Length Tuning
+Track Length Tuning... = Track Length Tuning...
+Tracks with different net or non-track found in current targets. = Tracks with different net or non-track found in current targets.
+Please select the signal tracks to be tuning. = Please select the signal tracks to be tuning.
+The total length exceeds the Design Rule Checking (DRC) constraint, continue? = The total length exceeds the Design Rule Checking (DRC) constraint, continue?
+45° Angle = 45° Angle
+90° Angle = 90° Angle
+DRC Track Length: = DRC Track Length:
+Current Length: = Current Length:
+Additional Length: = Additional Length:
+Target Length: = Target Length:
+Current Length: = Current Length:
+Adjust Type = Adjust Type
+Double Side = Double Side
+Single Side = Single Side
+
+Cannot connect to the server = Cannot connect to the server
+
+#Dialog Copper Area Manager
+Copper Area Manager... = Copper Area Manager...
+Copper Area Manager = Copper Area Manager
+Order = Order
+Name = Naam
+Layer = Laag
+Color = Kleur
+Net = Net
+Move Up = Move Up
+Move Down = Move Down
+Apply = Toepassen
+Cancel = Annuleren
+Copper Area do not allow self-intersection! = Copper Area do not allow self-intersection!
+No copper area! = No copper area!
+#Dialog report error
+Datasheet = Datasheet
+Verification = Verification
+Symbol = Symbool
+Pad Number = Pad Number
+Pad Size = Pad Size
+Remark = Remark
+Correct = Correct
+Incorrect = Incorrect
+Submit = Submit
+Tip = Tip
+Please select one component = Please select one component
+Location X = Location X
+Location Y = Location Y
+Your current browser version may not support some features. Please use the latest version of Chrome or Firefox, or try the desktop client. = Your current browser version may not support some features. Please use the latest version of Chrome or Firefox, or try the desktop client.
+EasyEDA Client = EasyEDA Client
+JLCEDA Client = JLCEDA Client
+Chrome = Chrome
+FireFox = FireFox
+New Version = New Version
+Switch Version = Switch Version
+Members = Members
+Update Time = Update Time
+Editor = Editor
+Current Version = Current Version
+Latest Version = Latest Version
+Please select a different version to switch; If you want to edit different version in the same time, please open them in different browsers. = Please select a different version to switch; If you want to edit different version in the same time, please open them in different browsers.
+3D Model = 3D-model
+Board Side = Board Side
+Display = Display
+Copper = Koper
+Create New Version = Create New Version
+Create new version success! = Create new version success!
+Version Management = Version Management
+Switch success! = Switch success!
+Please close current version's documents first! = Please close current version's documents first!
+Creator = Creator
+creator = creator
+Create Time = Create Time
+Fail to connect to server! Please check your internet connection status and try again! = Fail to connect to server! Please check your internet connection status and try again!
+Spice Number = Spice Number
+Create = Aanmaken
+3D Outline = 3D Outline
+Cannot create the slot hole via the board outline, please use the following methods: = Cannot create the slot hole via the board outline, please use the following methods:
+Use the solid region and set its type as Board Cutout = Use the solid region and set its type as Board Cutout
+Select a Track/Arc, right-click to use the "Convert to Board Cutout" = Select a Track/Arc, right-click to use the "Convert to Board Cutout"
+Select all the closed Tracks/Arcs, right-click to use the "Convert to Board Cutout" = Select all the closed Tracks/Arcs, right-click to use the "Convert to Board Cutout"
+The more information please refer at = The more information please refer at
+Save "{0}" success! = Save "{0}" success!
+Save "{0}" failed! = Save "{0}" failed!
+Invalid Size = Invalid Size
+Processing = Processing
+NetFlag GND = NetFlag GND
+NetFlag VCC = NetFlag VCC
+NetFlag +5v = NetFlag +5v
+No Useful Data! = No Useful Data!
+SVG Preview = SVG Preview
+Prefix contains not supported charater(s) ! = Prefix contains not supported charater(s) !
+Name contains not supported charater(s) ! = Name contains not supported charater(s) !
+Create Grid Path = Create Grid Path
+Please Input Name = Please Input Name
+Building Copper Area = Building Copper Area
+Processing = Processing
+Opening File = Opening File
+Update from Library = Update from Library
+Update Footprint = Update Footprint
+Update 3D Model = Update 3D Model
+Find footprint(s) have been updated, do you want to update? = Find footprint(s) have been updated, do you want to update?
+3D File: = 3D File:
+Model List = Model List
+Are you sure merge net {0} and net {1}? = Are you sure merge net {0} and net {1}?
+Display Footprint = Display Footprint
+Display Footprint Name While Placing Component = Display Footprint Name While Placing Component
+Annotate Prefix Automatically After Placing Component = Annotate Prefix Automatically After Placing Component
+Program Error, Please Contact Technical Support! = Program Error, Please Contact Technical Support!
+Search Engine = Search Engine
+Keyword to Filter = Keyword to Filter
+Normal Mode = Normal Mode
+Expand Mode = Expand Mode
+3D Model Manager = 3D Model Manager
+3D Model Preview = 3D Model Preview
+3D Model = 3D-model
+3DModel = 3DModel
+Document = Document
+
+[pcblayer]
+3DModel = 3DModel
+Document = Document
+[/pcblayer]
+
+Adjustment = Adjustment
+View Larger Image = View Larger Image
+Previous = Vorige
+Previous Image = Previous Image
+Next Image = Next Image
+Notice: For reference only, please refer to the real product = Notice: For reference only, please refer to the real product
+It's under designing, please wait. = It's under designing, please wait.
+The width of track/arc/circle cannot be less than 0.1mil! = The width of track/arc/circle cannot be less than 0.1mil!
+Clone success ! = Clone success !
+Footprint Naming Reference = Footprint Naming Reference
+3D Model Manager = 3D Model Manager
+Will jump to the Lichuang open source hardware platform (OSHWHub.com) to improve the information and share. Whether to continue? = Will jump to the Lichuang open source hardware platform (OSHWHub.com) to improve the information and share. Whether to continue?
+Will jump to the EasyEDA open source hardware platform (OSHWLab.com) to improve the information and share. Whether to continue? = Will jump to the EasyEDA open source hardware platform (OSHWLab.com) to improve the information and share. Whether to continue?
+The project content page will open. After adding a description and setting the project to public, you can click the share button to get the share link. = The project content page will open. After adding a description and setting the project to public, you can click the share button to get the share link.
+This project is not public, can not view homepage! = This project is not public, can not view homepage!
+
+[grid]
+None = None
+[/grid]
+
+#lib verify and mounted
+This component is verified = This component is verified
+This component is unmounted = This component is unmounted
+
+#find component
+Find Next = Find Next
+Pin not found = Pin not found
+Pad not found = Pad not found
+Object not found = Object not found
+
+#offset Elements
+Offset X = Offset X
+Offset Y = Offset Y
+Offset = Offset
+Absolute Offset = Absolute Offset
+Relative Offset = Relative Offset
+Absolute Offset... = Absolute Offset...
+Relative Offset... = Relative Offset...
+Reference Point X = Reference Point X
+Reference Point Y = Reference Point Y
+
+#Inner Plane layer
+Rebuild Plane = Rebuild Plane
+PlaneZone Properties = PlaneZone Properties
+Change to a plane layer is not allowed during track routing. = Change to a plane layer is not allowed during track routing.
+#pcblib rect
+Fill = Fill
+Fill Type = Fill Type
+[PlaneZone]
+Solid = Solid
+[/PlaneZone]
+
+Solid Region do not allow self-intersection! = Solid Region do not allow self-intersection!
+
+The prefix or name or text too far away from the footprint, if you don't want it to show up please make it hidden. = The prefix or name or text too far away from the footprint, if you don't want it to show up please make it hidden.
+The prefixes are not allowed to repeat! = The prefixes are not allowed to repeat!
+Save failed! The origin of the canvas is not in the graphics! Whether to set the origin automatically? = Save failed! The origin of the canvas is not in the graphics! Whether to set the origin automatically?
+The origin of the canvas has been set in the graphics now, you can save again. = The origin of the canvas has been set in the graphics now, you can save again.
+Backup Project = Backup Project
+Open Project Directory = Open Project Directory
+
+{0} items updated = {0} items updated
+
+The current file {0} has an updated version. Do you want to overwrite it? If you want to open the latest version, please close the current file and reopen it. = The current file {0} has an updated version. Do you want to overwrite it? If you want to open the latest version, please close the current file and reopen it.
+Yes, Overwrite It = Yes, Overwrite It
+No, Keep It = No, Keep It
+
+Download Client = Download Client
+
+Search tutorial, open source projects etc. = Search tutorial, open source projects etc.
+[search]
+Tutorials = Tutorials
+OSHWLAB = OSHWLAB
+[/search]
+
+Go to LCSC and search for = Go to LCSC and search for
+Go to LCSC = Go to LCSC
+
+Hide Ratline Layer and Keep the Component Prefix When Paste Objects = Hide Ratline Layer and Keep the Component Prefix When Paste Objects
+
+ALL.layer = ALL.layer
+Copper.layer = Copper.layer
+Non-Copper.layer = Non-Copper.layer
+Other.layer = Other.layer
+
+Please enter at least 2 characters! = Please enter at least 2 characters!
+View Datasheet = View Datasheet
+View Datasheet... = View Datasheet...
+
+The corresponding package or network could not be found in the currently open PCB document = The corresponding package or network could not be found in the currently open PCB document
+delete fail = delete fail
+
+[crashRecovery]
+Libraries = Bibliotheken
+[/crashRecovery]
+Canvas origin anomaly! = Canvas origin anomaly!
+
+Component's Name = Component's Name
+Component's Prefix = Component's Prefix
+Component's Footprint = Component's Footprint
+
+[findlib]
+Clear = Wissen
+Apply Filters = Apply Filters
+Result = Result
+Place = Plaatsen
+Prev = Prev
+Next = Volgende
+Total {count} Count = Total {count} Count
+About = Over
+Items = Items
+Apply New Part = Apply New Part
+No Part Yet = No Part Yet
+[/findlib]
+
+Object = Object
+Layers and Objects = Layers and Objects
+All = All
+
+Add custom = Add custom
+
+Connections = Connections
+Attempted: = Attempted:
+Completed: = Completed:
+Failed: = Failed:
+Total Vias: = Total Vias:
+
+Please confirm moving option = Please confirm moving option
+Only this pad = Only this pad
+For this component = For this component
+View Owner = View Owner
+View Detail = View Detail
+
+
+#place batch vias
+Place Vias = Place Vias
+Placing Vias = Placing Vias
+Removing Vias = Removing Vias
+Batch Vias for Copper = Batch Vias for Copper
+Add/Remove Vias = Add/Remove Vias
+Diameter = Diameter
+Drill Diameter = Drill Diameter
+Column Spacing = Column Spacing
+Row Spacing = Row Spacing
+Multiple vias have been placed, do you want to rebuild the copper area? = Multiple vias have been placed, do you want to rebuild the copper area?
+Remove vias finish, do you want to rebuild the copper area? = Remove vias finish, do you want to rebuild the copper area?
+The width of track/arc/circle cannot be less than 0.051mm/2mil/0.002inch! = The width of track/arc/circle cannot be less than 0.051mm/2mil/0.002inch!
+Save fail! Please try again! = Save fail! Please try again!
+Please select a copper outline = Please select a copper outline
+Can't find copper area at other layers, please add the copper area with the same net at other layer first. = Can't find copper area at other layers, please add the copper area with the same net at other layer first.
+
+Add favorite success! = Add favorite success!
+Remove favorite success! = Remove favorite success!
+Remove favorite failed! = Remove favorite failed!
+Whether if remove favorite? = Whether if remove favorite?
+Split by ';' for multi tags = Split by ';' for multi tags
+
+This size is the determined size! = This size is the determined size!
+The associated pad has been locked = The associated pad has been locked
+Split by space or , for multi tags = Split by space or , for multi tags
+
+Rotation X = Rotation X
+Rotation Y = Rotation Y
+Rotation Z = Rotation Z
+
+Some fields are filled invalid data = Some fields are filled invalid data
+start time should be earlier than stop time = start time should be earlier than stop time
+Number of points should be less than 100 in octave variation = Number of points should be less than 100 in octave variation
+Start frequency should be less than stop frequency. The suffix meg stands for Mega,m stands for milli = Start frequency should be less than stop frequency. The suffix meg stands for Mega,m stands for milli
+Get historical records fail! = Get historical records fail!
+This 3D model didn't create the outlines successfully, please import it again or contact with us. = This 3D model didn't create the outlines successfully, please import it again or contact with us.
+There is No Tag! = There is No Tag!
+Assign successful! = Assign successful!
+Found footprint's pad number doesn't match the schematic component's pin number, please correct the pad number and try again! = Found footprint's pad number doesn't match the schematic component's pin number, please correct the pad number and try again!
+Update Property = Update Property
+Update Properties = Update Properties
+Please fill in at least 5 words. = Please fill in at least 5 words.
+Mouse hovering over the track to highlight the entire network = Mouse hovering over the track to highlight the entire network
+Net Highlighting While Cursor Hover the Track = Net Highlighting While Cursor Hover the Track
+When circle set as "Yes", the Pin length must be more than 6 = When circle set as "Yes", the Pin length must be more than 6
+Hi, I found a problem of your library, this library seems incorrect.\ntitle:{title}\nType:{type}\nlink:{link}\n{content}\nThank you! = Hi, I found a problem of your library, this library seems incorrect.\ntitle:{title}\nType:{type}\nlink:{link}\n{content}\nThank you!
+
+Logout fail! Please try again! = Logout fail! Please try again!
+Logout success! We look forward you to use JLCEDA again! = Logout success! We look forward you to use JLCEDA again!
+Logout success! We look forward you to use EasyEDA again! = Logout success! We look forward you to use EasyEDA again!
+Click to Preview 3D = Click to Preview 3D
+[logoutDialog]
+Logout = Afmelden
+[/logoutDialog]
+
+[findlibTag]
+All = All
+[/findlibTag]
+
+Export Pick and Place File = Export Pick and Place File
+Mirror the bottom components' coordinate (JLCPCB doesn't need) = Mirror the bottom components' coordinate (JLCPCB doesn't need)
+Mirror coordinate Y = Mirror coordinate Y
+Mirror coordinate X = Mirror coordinate X
+Work Space = Work Space
+Include panelized components' coordinates(JLCPCB doesn't need) = Include panelized components' coordinates(JLCPCB doesn't need)
+Personal Workspace = Personal Workspace
+Work Space - {name} = Work Space - {name}
+Work Space - Personal = Work Space - Personal
+Cloning = Cloning
+
+Project Owner = Project Owner
+Clone Project = Clone Project
+Homepage = Homepage
+Apply for Education Edition = Apply for Education Edition
+Load Organization failed = Load Organization failed
+Joined = Joined
+Favorite = Favorite
+This operation will unfavorite this project, do you want to continue? = This operation will unfavorite this project, do you want to continue?
+View Homepage = View Homepage
+Private Project = Private Project
+3-7 days = 3-7 days
+Close Tab = Close Tab
+Close Other Tabs = Close Other Tabs
+Close All Tabs = Close All Tabs
+Open in New Window = Open in New Window
+Cursor Snap to Component's Origin or Pad Center While Dragging Component = Cursor Snap to Component's Origin or Pad Center While Dragging Component
+Undefined = Undefined
+Input = Input
+Model Unit = Model Unit
+File Unit = File Unit
+This part contains subparts, please make sure you have checked other subparts before reporting error, do you want to continue? = This part contains subparts, please make sure you have checked other subparts before reporting error, do you want to continue?
+
+[saveAs]
+Power = Voeding
+[/saveAs]
+
+Assign LCSC Part# = Assign LCSC Part#
+Unexpected error while converting. Perhaps unsupported file type or program bug. = Unexpected error while converting. Perhaps unsupported file type or program bug.
+Found duplicated component IDs, please click "OK" to re-assign component ID automatically, and then save the document and try again. = Found duplicated component IDs, please click "OK" to re-assign component ID automatically, and then save the document and try again.
+
+Format = Format
+View = Beeld
+Design = Ontwerp
+Simulation = Simulatie
+Advanced = Advanced
+Fabrication = Fabrication
+Check DRC = Check DRC
+Simulation Setting = Simulation Setting
+BOM = Onderdelenlijst
+PCB Fabrication File(Gerber) = PCB Fabrication File(Gerber)
+Pick and Place File = Pick and Place File
+Parts Order = Parts Order
+PCB Order = PCB Order
+One-click Order Parts = One-click Order Parts
+One-click Order PCB/SMT = One-click Order PCB/SMT
+JLCPCB Layout Service = JLCPCB Layout Service
+SIM = SIM
+STD = STD
+WaveForm = WaveForm
+
+Place Module = Place Module
+Please enter identification letters: = Please enter identification letters:
+Only support English letters, up to 5. = Only support English letters, up to 5.
+
+Exist doesn't annotate prefix component(s) in the module, please edit and annotate the unique prefix(s) for component(s) first. = Exist doesn't annotate prefix component(s) in the module, please edit and annotate the unique prefix(s) for component(s) first.
+Opening = Opening
+
+Also update track's net (Only applies to circumstance under which prefix/netlabel changes and no component/wire is added or removed) = Also update track's net (Only applies to circumstance under which prefix/netlabel changes and no component/wire is added or removed)
+
+#desktop client error feedback
+Cannot open online documents on Project Offline mode. = Cannot open online documents on Project Offline mode.
+
+Please select a project = Please select a project
+Opened Projects = Opened Projects
+Open Project = Project openen
+Close Project = Close Project
+Open All Projects = Open All Projects
+Close All Projects = Close All Projects
+Select Owner = Select Owner
+Select Folder = Select Folder
+Select Owner or Folder = Select Owner or Folder
+Select Project = Select Project
+Folder = Folder
+New Folder = New Folder
+New Sub Folder = New Sub Folder
+Delete Folder = Delete Folder
+Move Project = Move Project
+Move Folder = Move Folder
+#Rename Folder
+Please input the folder name = Please input the folder name
+Invalid folder name = Invalid folder name
+Are you sure to delete this folder? = Are you sure to delete this folder?
+All projects in this folder will be moved to the root directory. = All projects in this folder will be moved to the root directory.
+Create new folder successfully = Create new folder successfully
+Failed to create new folder = Failed to create new folder
+Delete folder successfully = Delete folder successfully
+Failed to delete folder = Failed to delete folder
+Rename folder successfully = Rename folder successfully
+Failed to rename folder = Failed to rename folder
+Move folder successfully = Move folder successfully
+Failed to move folder = Failed to move folder
+Move project successfully = Move project successfully
+Failed to move project = Failed to move project
+The folder depth must not exceed {0} levels = The folder depth must not exceed {0} levels
+Failed to add project to folder = Failed to add project to folder
+
+Doesn't support SMT = Doesn't support SMT
+JLCPCB SMT Stock: {0} = JLCPCB SMT Stock: {0}
+
+Reset failed! There are duplicate component prefixes in the current schematic: = Reset failed! There are duplicate component prefixes in the current schematic:
+Reset failed! There are duplicate component prefixes in the current PCB: = Reset failed! There are duplicate component prefixes in the current PCB:
+Please modify the component prefixes first to ensure that the component prefix is unique. = Please modify the component prefixes first to ensure that the component prefix is unique.
+
+JLCEDA(YALONG Edition) - A Simple and Powerful Electronic Circuit Design Tool = JLCEDA(YALONG Edition) - A Simple and Powerful Electronic Circuit Design Tool
+JLCEDA(Standard) - A Simple and Powerful Electronic Circuit Design Tool = JLCEDA(Standard) - A Simple and Powerful Electronic Circuit Design Tool
+EasyEDA(Standard) - A Simple and Powerful Electronic Circuit Design Tool = EasyEDA(Standard) - A Simple and Powerful Electronic Circuit Design Tool
+
+#Dialog for Package Custom Data
+Please input the data title = Please input the data title
+Data title duplicated = Data title duplicated
+Cannot be more than {0} characters! = Cannot be more than {0} characters!
+Only latin alphabets, digits, underscore(_) and hyphen(-) are allowed. = Only latin alphabets, digits, underscore(_) and hyphen(-) are allowed.
+Invalid value of item {0} = Invalid value of item {0}
+Update DFM = Update DFM
+Custom DFM Data = Custom DFM Data
+Saved custom data successfully! = Saved custom data successfully!
+Save custom data failed! = Save custom data failed!
+Will replace the graphics and custom data of current document, after imported please adjust the 3D model. Continue or not? = Will replace the graphics and custom data of current document, after imported please adjust the 3D model. Continue or not?
+Open footprint "Custom Data" dialog = Open footprint "Custom Data" dialog
+
+#Create lead shape
+Create Lead Shape = Create Lead Shape
+Base on Pad Center = Base on Pad Center
+Base on Canvas Origin = Base on Canvas Origin
+Lead shape = Lead shape
+Footprint Type = Footprint Type
+From pad shape = From pad shape
+Lead length = Lead length
+Lead width = Lead width
+Lead diameter = Lead diameter
+Scaling ratio = Scaling ratio
+Leads creating direction = Leads creating direction
+Auto = Automatisch
+Horizontal = Horizontaal
+Vertical = Verticaal
+Canvas origin to lead edge = Canvas origin to lead edge
+Canvas origin to body edge = Canvas origin to body edge
+Lead soldering length = Lead soldering length
+Lead soldering part diameter = Lead soldering part diameter
+Component shape object doesn't overlap lead shape object, please check carefully. = Component shape object doesn't overlap lead shape object, please check carefully.
+The solder mask expansion of pads ({0},{1}) has a small clearance(less than 0.08mm), it will cause the soldering too short, please modify. = The solder mask expansion of pads ({0},{1}) has a small clearance(less than 0.08mm), it will cause the soldering too short, please modify.
+The paste mask expansion or custom paste mask layer objects of pads ({0},{1}) has a small clearance(less than 0.15mm), it will cause the stencil to create fail, please modify. = The paste mask expansion or custom paste mask layer objects of pads ({0},{1}) has a small clearance(less than 0.15mm), it will cause the stencil to create fail, please modify.
+System footprint must have pad number 1 or A1, please modify the pad number. = System footprint must have pad number 1 or A1, please modify the pad number.
+System footprint doesn't allow two or more pad numbers are 1 or A1, please modify the pad number. = System footprint doesn't allow two or more pad numbers are 1 or A1, please modify the pad number.
+Document layer has circle object, but jlcPara's polarity is 0, please check the Custom Data. = Document layer has circle object, but jlcPara's polarity is 0, please check the Custom Data.
+There are exist repeat pad numbers: {padNumber}, please check, if it is correct please ignore this. = There are exist repeat pad numbers: {padNumber}, please check, if it is correct please ignore this.
+Can't find the circle at the component marking layer, or this circle doesn't at the same quadrant with the 1st pad, please check whether it is correct. = Can't find the circle at the component marking layer, or this circle doesn't at the same quadrant with the 1st pad, please check whether it is correct.
+This footprint is LED, CASE or DIO type, please check if need to draw the polarity marking(or special polarity marking), if exits polarity marking please ignore this message. = This footprint is LED, CASE or DIO type, please check if need to draw the polarity marking(or special polarity marking), if exits polarity marking please ignore this message.
+This footprint is DIP type, please check if haven't place multi-layer pads. = This footprint is DIP type, please check if haven't place multi-layer pads.
+This footprint is SMD type, please check if haven't placed single-layer pads. = This footprint is SMD type, please check if haven't placed single-layer pads.
+
+ROUND = ROUND
+RECTANGLE = RECTANGLE
+OCTAGONAL = OCTAGONAL
+Upper left = Upper left
+Lower left = Lower left
+Center of Pads = Center of Pads
+First Pin = First Pin
+Package Name = Package Name
+Pins Number = Pins Number
+Rows Of Pin = Rows Of Pin
+Columns Of Pin = Columns Of Pin
+Polarity = Polarity
+Pad Shape = Pad Shape
+Body Diameter = Body Diameter
+Lead Span = Lead Span
+Lead Vertical Span = Lead Vertical Span
+Body Length = Body Length
+Body Width = Body Width
+Pin Diameter = Pin Diameter
+Pin Length = Pin Length
+Pin Height = Pin Height
+Pin Solid Width = Pin Solid Width
+Pin Solid Height = Pin Solid Height
+Pin Spacing = Pin Spacing
+Pin Horizontal Spacing = Pin Horizontal Spacing
+Pin Vertical Spacing = Pin Vertical Spacing
+ThermalPad = ThermalPad
+Pad Expansion = Pad Expansion
+Custom PasteMask = Custom PasteMask
+Fabrication Tolerance = Fabrication Tolerance
+Placement Tolerance = Placement Tolerance
+FirstPin Position = FirstPin Position
+Package Origin = Package Origin
+Expansion Size = Expansion Size
+Corner = Corner
+Angle = Hoek
+Fillet = Fillet
+Chamfer = Chamfer
+Update Preview = Update Preview
+Number of pins (left and right) = Number of pins (left and right)
+Number of pins (up and down) = Number of pins (up and down)
+Reference Use Cases = Reference Use Cases
+Package Type = Package Type
+Capacitance = Capaciteit
+Resistance = Weerstand
+Bidirectional Diode = Bidirectional Diode
+Inductance = Inductantie
+Crystal Oscillator = Crystal Oscillator
+Diode = Diode
+LED = LED
+Fuse = Fuse
+Entity height = Entity height
+Lead Overhang = Lead Overhang
+Lead Thickness = Lead Thickness
+Unknown mistake = Unknown mistake
+Has ThermalVias = Has ThermalVias
+Polar Capacitance = Polar Capacitance
+
+Create Component Marking = Create Component Marking
+Create component marking successfully! = Create component marking successfully!
+No elements on component shape layer! = No elements on component shape layer!
+No elements on lead shape layer! = No elements on lead shape layer!
+No pad of number 1 or A1, please modify the pad number. = No pad of number 1 or A1, please modify the pad number.
+Save failed! Component marking circle is at the axis. Do you want to recreate the component marking? = Save failed! Component marking circle is at the axis. Do you want to recreate the component marking?
+If autoroute fail, you can export the autoroute file(DSN) to third-party autorouter tool(Such as: FreeRouting, Konekt Electra, Eremex TopoR etc.), and export the session file(SES) after finished autoroute, and then import to PCB. = If autoroute fail, you can export the autoroute file(DSN) to third-party autorouter tool(Such as: FreeRouting, Konekt Electra, Eremex TopoR etc.), and export the session file(SES) after finished autoroute, and then import to PCB.
+Auto route failed! Found abnormal pad(s) data, please modify the pad width and height: = Auto route failed! Found abnormal pad(s) data, please modify the pad width and height:
+Select Properties = Select Properties
+Combine the same parts' prefixes in one row = Combine the same parts' prefixes in one row
+Please check at least one item! = Please check at least one item!
+Pins = Pinnen
+Check component latest version when open schematic = Check component latest version when open schematic
+Only show updated components = Only show updated components
+Note: When a PCB is Import Changes, the PCB is updated according to the footprint version to which the schematic is bound. = Note: When a PCB is Import Changes, the PCB is updated according to the footprint version to which the schematic is bound.
+Doesn't support to import the binary format DXF, please import the ASCII format DXF. = Doesn't support to import the binary format DXF, please import the ASCII format DXF.
+
+Find System Similar Footprint = Find System Similar Footprint
+Download fingerprint data = Download fingerprint data
+Found similar footprints at system library, it is recommended to use them first. = Found similar footprints at system library, it is recommended to use them first.
+Copy Title = Copy Title
+Check system similar footprint = Check system similar footprint
+Can't find the Similar Footprint = Can't find the Similar Footprint
+Search failed! = Search failed!
+No package information! = No package information!
+Find Parameters = Find Parameters
+Find Results = Find Results
+
+Bill of material(BOM) uploaded finish, please click "OK" to continue. = Bill of material(BOM) uploaded finish, please click "OK" to continue.
+Bill of material(BOM) upload failed! = Bill of material(BOM) upload failed!
+
+All pads = All pads
+All holes = All holes
+Single layer pads = Single layer pads
+Multi-layer pads = Multi-layer pads
+Same X pads = Same X pads
+Same Y pads = Same Y pads
+Same Y and clearance pads = Same Y and clearance pads
+Same X and clearance pads = Same X and clearance pads
+Same X and clearance pads' clearance = Same X and clearance pads' clearance
+Same Y and clearance pads' clearance = Same Y and clearance pads' clearance
+Pad's hole diameter(max) = Pad's hole diameter(max)
+Pad's hole diameter(min) = Pad's hole diameter(min)
+Pad's hole diameter(aver) = Pad's hole diameter(aver)
+
+Try Pro Edition = Try Pro Edition
+
+Generate Solid Region by Objects Outline = Generate Solid Region by Objects Outline
+Generate Polygon Pad by Objects Outline = Generate Polygon Pad by Objects Outline
+Select the objects that cannot be generated = Select the objects that cannot be generated
+
+Please compress schematic and PCB as a zip file and then import it, if you only import the schematic you need to binding with the footprint manually. = Please compress schematic and PCB as a zip file and then import it, if you only import the schematic you need to binding with the footprint manually.
+Please compress schematic and PCB in ASCII format as a zip file and then import it, if you only import the schematic you need to binding with the footprint manually. = Please compress schematic and PCB in ASCII format as a zip file and then import it, if you only import the schematic you need to binding with the footprint manually.
+Import failed! The imported files were not ASCII format, please save the files as "Advanced Schematic ascii(*.SchDoc)" or"PCB ASCII File(*.PcbDoc)" at Altium Designer first, and then import. = Import failed! The imported files were not ASCII format, please save the files as "Advanced Schematic ascii(*.SchDoc)" or"PCB ASCII File(*.PcbDoc)" at Altium Designer first, and then import.
+Please save the files as "Advanced Schematic ascii(*.SchDoc)" or"PCB ASCII File(*.PcbDoc)" at Altium Designer first, and then import. = Please save the files as "Advanced Schematic ascii(*.SchDoc)" or"PCB ASCII File(*.PcbDoc)" at Altium Designer first, and then import.
+The PCB text will use the editor new font family, the text maybe will appear a little excursion. = The PCB text will use the editor new font family, the text maybe will appear a little excursion.
+Because of different file format and element design, the imported element may have some differences, please check carefully. The more information please refer the tutorials. = Because of different file format and element design, the imported element may have some differences, please check carefully. The more information please refer the tutorials.
+EasyEDA is not responsible for any losses caused by format conversion differences, if you do not agree, please do not import. = EasyEDA is not responsible for any losses caused by format conversion differences, if you do not agree, please do not import.
+Please make sure the EAGLE file is saved in EAGLE v6.0 and higher version. = Please make sure the EAGLE file is saved in EAGLE v6.0 and higher version.
+Please compress schematic and PCB as a zip file by KiCad5 and then import it, if you only import the schematic you need to binding with the footprint manually. = Please compress schematic and PCB as a zip file by KiCad5 and then import it, if you only import the schematic you need to binding with the footprint manually.
+Please make sure the Protel file is exported as ASCII format file. = Please make sure the Protel file is exported as ASCII format file.
+Please compress the schematic and corresponding symbols as a zip file and then import it. = Please compress the schematic and corresponding symbols as a zip file and then import it.
+Tips = Tips
+
+Exists incomplete connection = Exists incomplete connection
+Found that the board has incomplete connection, please check the nets and ratlines = Found that the board has incomplete connection, please check the nets and ratlines
+
+Please save the files as "Advanced Schematic ascii(*.SchDoc)" or"PCB ASCII File(*.PcbDoc)" at Altium Designer first, and then import. = Please save the files as "Advanced Schematic ascii(*.SchDoc)" or"PCB ASCII File(*.PcbDoc)" at Altium Designer first, and then import.
+Tips = Tips
+Exists incomplete connection = Exists incomplete connection
+Found that the board has incomplete connection, please check the nets and ratlines = Found that the board has incomplete connection, please check the nets and ratlines
+
+You are not logged in or the login status is invalid, please login and try again. = You are not logged in or the login status is invalid, please login and try again.
+
+Display Board Cutout = Display Board Cutout
+
+Apply New Part = Apply New Part
+Apply New Parts for Free = Apply New Parts for Free
+
+Migrate to Pro Edition... = Migrate to Pro Edition...
+Recommended migrate the Std edition projects to the Pro edition, the Pro edition is more features powerful, and more more smoother. How to migrate: = Recommended migrate the Std edition projects to the Pro edition, the Pro edition is more features powerful, and more more smoother. How to migrate:
+1. Download and login the Pro edition. = 1. Download and login the Pro edition.
+2. Via: Top Menu - File - Migrate Standard... = 2. Via: Top Menu - File - Migrate Standard...
+3. Select the projects or libraries to migrate. = 3. Select the projects or libraries to migrate.
+4. If your projects are saved at local, you can compress the schematic and PCB as a zip file, and then import it to the Pro edition. Via: Top Menu - File - Import - EasyEDA(Standard). = 4. If your projects are saved at local, you can compress the schematic and PCB as a zip file, and then import it to the Pro edition. Via: Top Menu - File - Import - EasyEDA(Standard).
+Open Pro Edition = Open Pro Edition
+Feedback = Feedback
+
+Datasheet Extract Wizard = Datasheet Extract Wizard
+Or double click here to add image(<5MB) = Or double click here to add image(<5MB)
+Pins Information = Pins Information
+Next Step = Next Step
+Drop graphic files here = Drop graphic files here
+Please drag graphic file = Please drag graphic file
+Click to cancel loading = Click to cancel loading
+Use rolling wheels to zoom preview screen = Use rolling wheels to zoom preview screen
+Please add pin information first = Please add pin information first
+The current environment does not support the paste content from the clipboard = The current environment does not support the paste content from the clipboard
+The current environment does not read the permissions of the clipboard = The current environment does not read the permissions of the clipboard
+Please copy a picture and paste the paste = Please copy a picture and paste the paste
+Image compression failure = Image compression failure
+Please drag or paste image at here = Please drag or paste image at here
+Pins Data without extraction = Pins Data without extraction
+Please make sure the editor is connect with internet, the extraction need some time, please wait a while = Please make sure the editor is connect with internet, the extraction need some time, please wait a while
+Add image failed, please add an image which small than 5MB = Add image failed, please add an image which small than 5MB
+The image size cannot be more than 2 MB = The image size cannot be more than 2 MB
+Image Type = Image Type
+SOP type = SOP type
+QFN type = QFN type
+Table type = Table type
+Clear = Wissen
+Side = Side
+No permission, please contact project manager to enable permission, after enable please refresh the project list and try again = No permission, please contact project manager to enable permission, after enable please refresh the project list and try again
+During the exam, cross -engineering paste = During the exam, cross -engineering paste
+The exam has ended and cannot be edited = The exam has ended and cannot be edited
+Exam remaining time = Exam remaining time
+Exam is over = Exam is over
+The exam is over and the test papers are being corrected = The exam is over and the test papers are being corrected
+Quit out = Quit out
+The current account does not belong to the current engineering member and cannot create a new documentation = The current account does not belong to the current engineering member and cannot create a new documentation
+
+The generated pads size will little bigger than input size, good for welding = The generated pads size will little bigger than input size, good for welding
+
+The project has been published, but after editing, the project becomes unpublished. Do you want to continue? = The project has been published, but after editing, the project becomes unpublished. Do you want to continue?
+You are trying to update components from library, please check the difference before update, if the flipped(mirrored) component(s) on the canvas updated, they will be reset to original status, please notice. Do you want to continue? = You are trying to update components from library, please check the difference before update, if the flipped(mirrored) component(s) on the canvas updated, they will be reset to original status, please notice. Do you want to continue?
+{value}{unit-name}, need more than DRC({drc-value}{unit-name}) = {value}{unit-name}, need more than DRC({drc-value}{unit-name})
+{value}{unit-name}, need less than DRC({drc-value}{unit-name}) = {value}{unit-name}, need less than DRC({drc-value}{unit-name})
+Need more than DRC({drc-value}{unit-name}) = Need more than DRC({drc-value}{unit-name})
+Need less than DRC({drc-value}{unit-name}) = Need less than DRC({drc-value}{unit-name})
+Incomplete Connection = Incomplete Connection
+Found some objects are far away from board outline, whether if move them at board bottom right corner to good to adjust? = Found some objects are far away from board outline, whether if move them at board bottom right corner to good to adjust?
+
+Auto Pin Placement = Auto Pin Placement
+About the Library Files Note = About the Library Files Note
+
+# upgrade notice
+New project notice = New project notice
+EasyEDA Pro has been released for several years and can completely replace the EasyEDA Std. = EasyEDA Pro has been released for several years and can completely replace the EasyEDA Std.
+1. The features are more comprehensive and powerful. = 1. The features are more comprehensive and powerful.
+2. Better performance and no pressure on large designs. = 2. Better performance and no pressure on large designs.
+3. The feature is constantly updated, making drawing more efficient. = 3. The feature is constantly updated, making drawing more efficient.
+4. Support the batch migration of EasyEDA Std libraries and projects. = 4. Support the batch migration of EasyEDA Std libraries and projects.
+5. Support on premise hosting for enterprise. = 5. Support on premise hosting for enterprise.
+It is recommended to gradually transfer to the EasyEDA Pro for project creation starting from now. = It is recommended to gradually transfer to the EasyEDA Pro for project creation starting from now.
+The EasyEDA Std will no longer add new features, and enter maintenance phase. = The EasyEDA Std will no longer add new features, and enter maintenance phase.
+Features comparison = Features comparison
+Projects migration tutorials. = Projects migration tutorials.
+Apply trial for free = Apply trial for free
+Migration Assistance Group = Migration Assistance Group
+Don't show this notice again today. = Don't show this notice again today.
+New Pro Project = New Pro Project
+New Std Project = New Std Project
