@@ -817,7 +817,7 @@ Solder Mask Expansion = Solder Mask Expansion
 #Via Properties
 Via Properties = Via Properties
 Diameter = Diameter
-Drill Diameter = Drill Diameter
+Drill Diameter = Boordiameter
 
 #Hole Properties
 Hole Properties = Hole Properties
@@ -905,7 +905,7 @@ Currently doesn't support layout single layer directly, please refer at: = Curre
 Create an account = Create an account
 Username = Username
 Password = Password
-Confirm Password = Confirm Password
+Confirm Password = Wachtwoord bevestigen
 Email = Email
 Please read this before you register = Please read this before you register
 Hi {username} = Hi {username}
@@ -925,160 +925,160 @@ Login and Register = Login and Register
 Your login information seems expired, please login again. Don't need to close the opening files, you can continue to save them after login. = Your login information seems expired, please login again. Don't need to close the opening files, you can continue to save them after login.
 
 #Dialog Reset Password
-Reset a password using your email = Reset a password using your email
-Your registered email = Your registered email
+Reset a password using your email = Wachtwoord opnieuw instellen via e-mail
+Your registered email = Je geregistreerde e-mailadres
 
 #Dialog Reaction
-Re-send an activation code to your email = Re-send an activation code to your email
+Re-send an activation code to your email = Activatiecode opnieuw per e-mail verzenden
 
 #Dialog Invite
-Invite friends to register = Invite friends to register
-Your friend's email = Your friend's email
+Invite friends to register = Vrienden uitnodigen om zich te registreren
+Your friend's email = E-mailadres van je vriend
 
 #Dialog Add A New Parameter
-Add a new parameter = Add a new parameter
-Key = Key
-Value.new_para = Value.new_para
-In BOM = In BOM
-Add into BOM = Add into BOM
-Invalid key = Invalid key
-This field is required. = This field is required.
+Add a new parameter = Nieuwe parameter toevoegen
+Key = Sleutel
+Value.new_para = Waarde
+In BOM = In onderdelenlijst
+Add into BOM = Toevoegen aan onderdelenlijst
+Invalid key = Ongeldige sleutel
+This field is required. = Dit veld is verplicht.
 
 #Dialog Change Your Password
-Change your password = Change your password
-Old password = Old password
-New Password = New Password
-Confirm Password = Confirm Password
+Change your password = Je wachtwoord wijzigen
+Old password = Oud wachtwoord
+New Password = Nieuw wachtwoord
+Confirm Password = Wachtwoord bevestigen
 
 #Dialog Create New Design
-Save as a New Project = Save as a New Project
-Save as a schematic = Save as a schematic
-Save as Symbol = Save as Symbol
-Save as a spice Symbol = Save as a spice Symbol
-Save as a spice subckt = Save as a spice subckt
+Save as a New Project = Opslaan als nieuw project
+Save as a schematic = Opslaan als schema
+Save as Symbol = Opslaan als symbool
+Save as a spice Symbol = Opslaan als SPICE-symbool
+Save as a spice subckt = Opslaan als SPICE-subcircuit
 YOU MUST CREATE A SPICE SYMBOL WITH EXACTLY THE SAME NAME AS THIS SUBCKT = YOU MUST CREATE A SPICE SYMBOL WITH EXACTLY THE SAME NAME AS THIS SUBCKT
-Save as a PCB file = Save as a PCB file
-Save as Footprint = Save as Footprint
-Save as a Schematic Module = Save as a Schematic Module
-Save as a PCB Module = Save as a PCB Module
-Save as 3D Model = Save as 3D Model
-Save as a WaveForm = Save as a WaveForm
-Do not allow saving to target project = Do not allow saving to target project
-Title = Title
-Share = Share
-Add file = Add file
-Visibility = Visibility
-Allow Comments = Allow Comments
-Public (Anyone can see this project but only you can modify it.) = Public (Anyone can see this project but only you can modify it.)
-Private (Only you can see and modify this project) = Private (Only you can see and modify this project)
-Create new project success! = Create new project success!
-You can now create files under this project = You can now create files under this project
-This file must be saved under a project, choose other project or create a new project = This file must be saved under a project, choose other project or create a new project
-Please login to save this kind of document = Please login to save this kind of document
-Duplicated project title = Duplicated project title
+Save as a PCB file = Opslaan als PCB-bestand
+Save as Footprint = Opslaan als footprint
+Save as a Schematic Module = Opslaan als schemamodule
+Save as a PCB Module = Opslaan als PCB-module
+Save as 3D Model = Opslaan als 3D-model
+Save as a WaveForm = Opslaan als golfvorm
+Do not allow saving to target project = Opslaan in doelproject niet toegestaan
+Title = Titel
+Share = Delen
+Add file = Bestand toevoegen
+Visibility = Zichtbaarheid
+Allow Comments = Reacties toestaan
+Public (Anyone can see this project but only you can modify it.) = Openbaar (iedereen kan dit project bekijken, alleen jij kunt het wijzigen)
+Private (Only you can see and modify this project) = Privé (alleen jij kunt dit project bekijken en wijzigen)
+Create new project success! = Nieuw project aangemaakt!
+You can now create files under this project = Je kunt nu bestanden in dit project aanmaken
+This file must be saved under a project, choose other project or create a new project = Dit bestand moet in een project worden opgeslagen. Kies een ander project of maak een nieuw project.
+Please login to save this kind of document = Meld je aan om dit documenttype op te slaan
+Duplicated project title = Projecttitel bestaat al
 #Duplicated document title =
-Project does not exist = Project does not exist
-Document does not exist = Document does not exist
-document not exists = document not exists
+Project does not exist = Project bestaat niet
+Document does not exist = Document bestaat niet
+document not exists = Document bestaat niet
 
-Categories = Categories
+Categories = Categorieën
 Project = Project
-Short description = Short description
-Content = Content
-Modify this project info. = Modify this project info.
-Modify this file info. = Modify this file info.
-Notice = Notice
-Search for it before creating a new one. = Search for it before creating a new one.
-Manufacturer Part Number = Manufacturer Part Number
-Supplier = Supplier
-Or = Or
-Supplier Part = Supplier Part
-Supplier Part Number = Supplier Part Number
-Link = Link
-link = link
+Short description = Korte beschrijving
+Content = Inhoud
+Modify this project info. = Projectgegevens wijzigen.
+Modify this file info. = Bestandsgegevens wijzigen.
+Notice = Opmerking
+Search for it before creating a new one. = Zoek eerst voordat je een nieuwe aanmaakt.
+Manufacturer Part Number = Fabrikantartikelnummer
+Supplier = Leverancier
+Or = Of
+Supplier Part = Leveranciersonderdeel
+Supplier Part Number = Leveranciersartikelnummer
+Link = Koppeling
+link = koppeling
 The professional function please refer at: = The professional function please refer at:
 
 #Dialog Clone My Part
 #Clone it to a project =
 #Clone it, then edit it =
-Clone your file = Clone your file
+Clone your file = Bestand dupliceren
 
 #Dialog Subckt
-Attach a Subckt to this spice symbol = Attach a Subckt to this spice symbol
-Subckt string = Subckt string
+Attach a Subckt to this spice symbol = Subcircuit aan dit SPICE-symbool koppelen
+Subckt string = Subcircuittekst
 Spice symbol title just allow [0-9][a-z][A-Z] and _ = Spice symbol title just allow [0-9][a-z][A-Z] and _
 
 #Design Manager
-Design Manager = Design Manager
+Design Manager = Ontwerpbeheer
 Nets = Netten
-DRC Errors = DRC Errors
-Are you sure you want to unroute this net? = Are you sure you want to unroute this net?
-Unroute = Unroute
-Track Length = Track Length
-Via/Hole Outer Size = Via/Hole Outer Size
-Filter nets = Filter nets
-Design Rule Checking = Design Rule Checking
+DRC Errors = DRC-fouten
+Are you sure you want to unroute this net? = Weet je zeker dat je de routering van dit net wilt verwijderen?
+Unroute = Routering verwijderen
+Track Length = Spoorlengte
+Via/Hole Outer Size = Buitendiameter via/gat
+Filter nets = Netten filteren
+Design Rule Checking = Ontwerpregelcontrole
 Board Outline = Printplaatcontour
-Plane Zone = Plane Zone
-Non-Plated = Non-Plated
-Non-Plated Pad = Non-Plated Pad
+Plane Zone = Vlakzone
+Non-Plated = Niet-gemetalliseerd
+Non-Plated Pad = Niet-gemetalliseerd soldeerpad
 [drcRule]
 Width = Breedte
-DRC Width = DRC Width
+DRC Width = DRC-breedte
 Length = Lengte
-DRC Length = DRC Length
-Drill Diameter = Drill Diameter
-DRC Drill Diameter = DRC Drill Diameter
+DRC Length = DRC-lengte
+Drill Diameter = Boordiameter
+DRC Drill Diameter = DRC-boordiameter
 Diameter = Diameter
-DRC Diameter = DRC Diameter
+DRC Diameter = DRC-diameter
 Object = Object
-DRC Clearance = DRC Clearance
+DRC Clearance = DRC-minimumafstand
 Clearance = Vrije ruimte
 [/drcRule]
 #It will take a while to unroute this net, do you want to continue? =
 More than one netlabel is found in wire, please checked whether this is correct, if you design it on purpose, please ignore this warning. = More than one netlabel is found in wire, please checked whether this is correct, if you design it on purpose, please ignore this warning.
 Incomplete net, a complete net should contain two or more pins, if you design it on purpose, please ignore this warning. = Incomplete net, a complete net should contain two or more pins, if you design it on purpose, please ignore this warning.
-This netlabel is not connected with any pin. = This netlabel is not connected with any pin.
-Incomplete connection, please check. = Incomplete connection, please check.
+This netlabel is not connected with any pin. = Dit netlabel is niet met een pin verbonden.
+Incomplete connection, please check. = Onvolledige verbinding. Controleer deze.
 The clearance between two objects is less than the Design Rule Checking (DRC) clearance which has different nets. = The clearance between two objects is less than the Design Rule Checking (DRC) clearance which has different nets.
-The diameter is less than Design Rule Checking (DRC) diameter = The diameter is less than Design Rule Checking (DRC) diameter
-The drill diameter is less than Design Rule Checking (DRC) drill diameter = The drill diameter is less than Design Rule Checking (DRC) drill diameter
-The track length is longer than Design Rule Checking (DRC) track length = The track length is longer than Design Rule Checking (DRC) track length
-The track width is less than Design Rule Checking (DRC) track width = The track width is less than Design Rule Checking (DRC) track width
-The pad is non-plated. Please check whether it is correct. = The pad is non-plated. Please check whether it is correct.
+The diameter is less than Design Rule Checking (DRC) diameter = De diameter is kleiner dan de minimale DRC-diameter
+The drill diameter is less than Design Rule Checking (DRC) drill diameter = De boordiameter is kleiner dan de minimale DRC-boordiameter
+The track length is longer than Design Rule Checking (DRC) track length = De spoorlengte overschrijdt de maximale DRC-spoorlengte
+The track width is less than Design Rule Checking (DRC) track width = De spoorbreedte is kleiner dan de minimale DRC-spoorbreedte
+The pad is non-plated. Please check whether it is correct. = Het soldeerpad is niet-gemetalliseerd. Controleer of dit juist is.
 
 #Dialog Simulation
-Show your simulation report = Show your simulation report
-Download netlist = Download netlist
-Run = Run
+Show your simulation report = Simulatierapport weergeven
+Download netlist = Netlijst downloaden
+Run = Uitvoeren
 Components = Componenten
 
 #Dialog Import
-Import file from your computer = Import file from your computer
-Maximum file size: 30 MB = Maximum file size: 30 MB
-Maximum file size: 100 MB = Maximum file size: 100 MB
-Chose file = Chose file
-File Operation = File Operation
-Import File = Import File
-Extract Libs = Extract Libs
-No Libs! = No Libs!
-Import File and Extract Libs = Import File and Extract Libs
-File type = File type
-The file size is too large. = The file size is too large.
-Please selected the file type. = Please selected the file type.
-No component was found! = No component was found!
-Import successfully = Import successfully
-Import failed = Import failed
-Click OK to continue with the import = Click OK to continue with the import
-Select None = Select None
+Import file from your computer = Bestand vanaf computer importeren
+Maximum file size: 30 MB = Maximale bestandsgrootte: 30 MB
+Maximum file size: 100 MB = Maximale bestandsgrootte: 100 MB
+Chose file = Bestand kiezen
+File Operation = Bestandsbewerking
+Import File = Bestand importeren
+Extract Libs = Bibliotheken uitpakken
+No Libs! = Geen bibliotheken!
+Import File and Extract Libs = Bestand importeren en bibliotheken uitpakken
+File type = Bestandstype
+The file size is too large. = Het bestand is te groot.
+Please selected the file type. = Selecteer het bestandstype.
+No component was found! = Geen component gevonden!
+Import successfully = Import geslaagd
+Import failed = Import mislukt
+Click OK to continue with the import = Klik op OK om door te gaan met importeren
+Select None = Niets selecteren
 
 #Dialog Modify Symbol Information
-Modify symbol information = Modify symbol information
-Spice Prefix = Spice Prefix
-Hide Pin = Hide Pin
-Pin Manager = Pin Manager
+Modify symbol information = Symboolgegevens wijzigen
+Spice Prefix = SPICE-voorvoegsel
+Hide Pin = Pin verbergen
+Pin Manager = Pinnenbeheer
 When a power pin is hidden, it will be marked as netlabel, you don't need to wire it. If you use it as simulation, please show it or create a GND/VCC Net for it. = When a power pin is hidden, it will be marked as netlabel, you don't need to wire it. If you use it as simulation, please show it or create a GND/VCC Net for it.
-Assign = Assign
+Assign = Toewijzen
 Supplier.bom = Supplier.bom
 LCSC.bom = LCSC.bom
 Price = Prijs
@@ -1088,155 +1088,155 @@ Components.bom = Components.bom
 Manufacturer Part.bom = Manufacturer Part.bom
 Manufacturer.bom = Manufacturer.bom
 
-One-click Purchasing at LCSC = One-click Purchasing at LCSC
-Order Parts = Order Parts
-Export BOM = Export BOM
-Upload to LCSC ERP = Upload to LCSC ERP
-Order SMT Parts = Order SMT Parts
-No components, upload failed! = No components, upload failed!
-Upload to LCSC ERP failed, please try again later. = Upload to LCSC ERP failed, please try again later.
+One-click Purchasing at LCSC = Met één klik bestellen bij LCSC
+Order Parts = Onderdelen bestellen
+Export BOM = Onderdelenlijst exporteren
+Upload to LCSC ERP = Uploaden naar LCSC ERP
+Order SMT Parts = SMT-onderdelen bestellen
+No components, upload failed! = Geen componenten. Upload mislukt!
+Upload to LCSC ERP failed, please try again later. = Upload naar LCSC ERP mislukt. Probeer het later opnieuw.
 Current BOM upload to Chip Manager of LCSC successfully, click "OK" button to access Chip Manager. = Current BOM upload to Chip Manager of LCSC successfully, click "OK" button to access Chip Manager.
 Upload to LCSC ERP failed, found some components miss some properties value, please check property "Footprint, Manufacturer Part" value if exist. = Upload to LCSC ERP failed, found some components miss some properties value, please check property "Footprint, Manufacturer Part" value if exist.
-Export PCB BOM = Export PCB BOM
-Export Schematic BOM = Export Schematic BOM
+Export PCB BOM = PCB-onderdelenlijst exporteren
+Export Schematic BOM = Schemaonderdelenlijst exporteren
 ID.bom = ID.bom
 Name.bom = Name.bom
 [bom]
 Name = Naam
-LCSC Assembly = LCSC Assembly
-Value = Value
+LCSC Assembly = LCSC-assemblage
+Value = Waarde
 ID = ID
-Supplier = Supplier
+Supplier = Leverancier
 LCSC = LCSC
 Price = Prijs
 Quantity = Aantal
-Package = Package
+Package = Behuizing
 Components = Componenten
 Manufacturer = Fabrikant
 [/bom]
-Manufacturer Part = Manufacturer Part
+Manufacturer Part = Fabrikantartikel
 Part Number = Artikelnummer
-Part Code = Part Code
+Part Code = Artikelcode
 
 #Dialog Run
-Run your simulation = Run your simulation
-Transient = Transient
-Maximum Timestep = Maximum Timestep
-Stop Time = Stop Time
-Start Time = Start Time
+Run your simulation = Simulatie uitvoeren
+Transient = Transiënt
+Maximum Timestep = Maximale tijdstap
+Stop Time = Stoptijd
+Start Time = Starttijd
 
-AC Analysis = AC Analysis
-Type of Sweep = Type of Sweep
-Number of points = Number of points
-Start Frequency = Start Frequency
-Stop Frequency = Stop Frequency
+AC Analysis = AC-analyse
+Type of Sweep = Type sweep
+Number of points = Aantal punten
+Start Frequency = Startfrequentie
+Stop Frequency = Stopfrequentie
 
-DC sweep = DC sweep
-Source to Sweep = Source to Sweep
-Start Value = Start Value
-Stop Value = Stop Value
-Increment = Increment
-DC Transfer = DC Transfer
-Output = Output
-Source = Source
+DC sweep = DC-sweep
+Source to Sweep = Te variëren bron
+Start Value = Beginwaarde
+Stop Value = Eindwaarde
+Increment = Stapgrootte
+DC Transfer = DC-overdracht
+Output = Uitgang
+Source = Bron
 
-DC op pnt = DC op pnt
+DC op pnt = DC-werkpunt
 Compute the DC operating point treating capacitances as opens and inductances as shorts = Compute the DC operating point treating capacitances as opens and inductances as shorts
 
 #Dialog Share Info
-Active File = Active File
-Active Project = Active Project
-Readonly = Readonly
-Editable = Editable
+Active File = Actief bestand
+Active Project = Actief project
+Readonly = Alleen-lezen
+Editable = Bewerkbaar
 Active file's owner project page = Active file's owner project page
 Active project editor page = Active project editor page
 
 #Dialog Document Recovery
-All Projects = All Projects
+All Projects = Alle projecten
 Document Recovery = Documentherstel
-Unsaved files = Unsaved files
-Please select a file! = Please select a file!
+Unsaved files = Niet-opgeslagen bestanden
+Please select a file! = Selecteer een bestand!
 Please expand the folder first, then select a document to recover. = Please expand the folder first, then select a document to recover.
-Are you sure you want to remove this backup? = Are you sure you want to remove this backup?
+Are you sure you want to remove this backup? = Weet je zeker dat je deze back-up wilt verwijderen?
 
 #Dialog Find Libs
 Search = Zoeken
-Search Results = Search Results
-Search and press Enter = Search and press Enter
-Keywords at least 3 characters = Keywords at least 3 characters
-Assembled = Assembled
-Verified = Verified
-In stock = In stock
+Search Results = Zoekresultaten
+Search and press Enter = Zoek en druk op Enter
+Keywords at least 3 characters = Zoekwoorden moeten minstens 3 tekens bevatten
+Assembled = Geassembleerd
+Verified = Geverifieerd
+In stock = Op voorraad
 {page} of {pagecount} pages = {page} of {pagecount} pages
-Common Modules = Common Modules
-User Contributions = User Contributions
-More = More
-Modify Model... = Modify Model...
-Add Favorite = Add Favorite
-Remove Favorite = Remove Favorite
-Add Sub Part = Add Sub Part
-Add Sub Parts... = Add Sub Parts...
+Common Modules = Veelgebruikte modules
+User Contributions = Bijdragen van gebruikers
+More = Meer
+Modify Model... = Model wijzigen...
+Add Favorite = Toevoegen aan favorieten
+Remove Favorite = Verwijderen uit favorieten
+Add Sub Part = Subonderdeel toevoegen
+Add Sub Parts... = Subonderdelen toevoegen...
 Please enter how many sub parts need to be added = Please enter how many sub parts need to be added
-Untagged = Untagged
-Package = Package
+Untagged = Zonder label
+Package = Behuizing
 package = package
 Title(PartNO) = Title(PartNO)
-No Data! = No Data!
+No Data! = Geen gegevens!
 Quantity = Aantal
-Manufacturer Part = Manufacturer Part
+Manufacturer Part = Fabrikantartikel
 manufacturer Part = manufacturer Part
 Manufacturer = Fabrikant
-manufacturer = manufacturer
-voltage = voltage
+manufacturer = fabrikant
+voltage = spanning
 Library = Bibliotheek
-LCSC Assembled = LCSC Assembled
-JLCPCB Assembled = JLCPCB Assembled
-User Contributed = User Contributed
+LCSC Assembled = Door LCSC geassembleerd
+JLCPCB Assembled = Door JLCPCB geassembleerd
+User Contributed = Bijdrage van gebruiker
 Symbol = Symbool
-Follow = Follow
-Types = Types
-Classes = Classes
-power = power
+Follow = Volgen
+Types = Typen
+Classes = Klassen
+power = vermogen
 Power = Voeding
 LCSC Part# = LCSC Part#
-LCSC Stock = LCSC Stock
-Report Error... = Report Error...
-Report Error = Report Error
-Thanks for your feedback! = Thanks for your feedback!
-Report error success, thanks for your report! = Report error success, thanks for your report!
+LCSC Stock = LCSC-voorraad
+Report Error... = Fout melden...
+Report Error = Fout melden
+Thanks for your feedback! = Bedankt voor je feedback!
+Report error success, thanks for your report! = Fout gemeld. Bedankt voor je melding!
 The content must be at least 2 characters! = The content must be at least 2 characters!
 This library is user contributed, please check before using. = This library is user contributed, please check before using.
 [lib]
-All = All
-System = System
-Personal = Personal
-Created = Created
-Favorite = Favorite
+All = Alles
+System = Systeem
+Personal = Persoonlijk
+Created = Aangemaakt
+Favorite = Favoriet
 No Team found. Please join or create a team first. = No Team found. Please join or create a team first.
-Create a team = Create a team
+Create a team = Team aanmaken
 No follow user found. Please follow your friend first. = No follow user found. Please follow your friend first.
 [/lib]
 
 
-BUY = BUY
-In Stock = In Stock
-Out of Stock = Out of Stock
+BUY = KOPEN
+In Stock = Op voorraad
+Out of Stock = Niet op voorraad
 Minimum = Minimum
-Distributor = Distributor
+Distributor = Distributeur
 
 Capacitance = Capaciteit
-Frequency Tolerance = Frequency Tolerance
-Power (Watts) = Power (Watts)
-Power - Max = Power - Max
+Frequency Tolerance = Frequentietolerantie
+Power (Watts) = Vermogen (watt)
+Power - Max = Maximaal vermogen
 Frequency = Frequentie
-Voltage Rating(Vdc,Vac) = Voltage Rating(Vdc,Vac)
+Voltage Rating(Vdc,Vac) = Nominale spanning (VDC, VAC)
 Voltage = Spanning
-Current Rating = Current Rating
-Rated current = Rated current
-Resistance (Ohms) = Resistance (Ohms)
-Resistance(Ohms) = Resistance(Ohms)
+Current Rating = Nominale stroom
+Rated current = Nominale stroom
+Resistance (Ohms) = Weerstand (ohm)
+Resistance(Ohms) = Weerstand (ohm)
 Inductance = Inductantie
-FET Type = FET Type
+FET Type = FET-type
 Current Rating(Max) = Current Rating(Max)
 Impedance @ Frequency = Impedance @ Frequency
 Voltage - Input (Max) = Voltage - Input (Max)
@@ -1350,7 +1350,7 @@ ID: {id}, Object: {object}, Location: {location} = ID: {id}, Object: {object}, L
 
 #Dialog DRC
 Item = Item
-Value = Value
+Value = Waarde
 value = value
 Unit = Eenheid
 Track Width = Track Width
@@ -1383,7 +1383,7 @@ Via Diameter (min) = Via Diameter (min)
 Via Drill Diameter (min) = Via Drill Diameter (min)
 Track Length (max) = Track Length (max)
 [drcRule]
-All = All
+All = Alles
 [/drcRule]
 
 #Dialog Hotkey
@@ -1670,7 +1670,7 @@ This file can only be opened in standard mode. To open it, please switch to stan
 Load your preferences success! = Load your preferences success!
 Save your preferences success! = Save your preferences success!
 Update subckt ok! = Update subckt ok!
-Clone your file = Clone your file
+Clone your file = Bestand dupliceren
 Please type a new file name = Please type a new file name
 Create file failure! = Create file failure!
 Schematics and PCBs can't be imported under My Libs folder, please choose a different folder = Schematics and PCBs can't be imported under My Libs folder, please choose a different folder
@@ -1905,7 +1905,7 @@ Zoom = Zoomen
 Place Pin = Place Pin
 
 #System Setting Dialog
-System = System
+System = Systeem
 Zoom Mode = Zoom Mode
 Scroll Key = Scroll Key
 CTRL + Scroll = CTRL + Scroll
@@ -2068,7 +2068,7 @@ Pad = Soldeerpad
 Via/Hole = Via/Hole
 PCB Layers = PCB Layers
 Order PCB = Order PCB
-Share = Share
+Share = Delen
 Free = Free
 Small = Small
 Medium = Medium
@@ -2123,7 +2123,7 @@ Switch = Switch
 
 Export your file, then print it yourself. = Export your file, then print it yourself.
 Trace width is too small = Trace width is too small
-Share = Share
+Share = Delen
 
 Images Property = Images Property
 Connect Pad to Pad = Connect Pad to Pad
@@ -2277,7 +2277,7 @@ Schematic Components = Schematic Components
 Edit Pin Map Information = Edit Pin Map Information
 Package Categories = Package Categories
 Components List = Components List
-Personal = Personal
+Personal = Persoonlijk
 Component PIN information = Component PIN information
 Footprint PAD information = Footprint PAD information
 Footprint Categories = Footprint Categories
@@ -2378,7 +2378,7 @@ Auto Router is running... = Auto Router is running...
 Common Library = Common Library
 Basic = Basic
 Extend = Extend
-Design Manager = Design Manager
+Design Manager = Ontwerpbeheer
 Library = Bibliotheek
 Spice Library = Spice Library
 Shared = Shared
@@ -2471,7 +2471,7 @@ Please input search keyword = Please input search keyword
 Sort Projects by = Sort Projects by
 Date Created = Date Created
 Date Modified = Date Modified
-Title = Title
+Title = Titel
 Ascending = Oplopend
 Descending = Aflopend
 Pin to Top = Pin to Top
@@ -2976,7 +2976,7 @@ No Part Yet = No Part Yet
 
 Object = Object
 Layers and Objects = Layers and Objects
-All = All
+All = Alles
 
 Add custom = Add custom
 
@@ -3000,7 +3000,7 @@ Removing Vias = Removing Vias
 Batch Vias for Copper = Batch Vias for Copper
 Add/Remove Vias = Add/Remove Vias
 Diameter = Diameter
-Drill Diameter = Drill Diameter
+Drill Diameter = Boordiameter
 Column Spacing = Column Spacing
 Row Spacing = Row Spacing
 Multiple vias have been placed, do you want to rebuild the copper area? = Multiple vias have been placed, do you want to rebuild the copper area?
@@ -3050,7 +3050,7 @@ Logout = Afmelden
 [/logoutDialog]
 
 [findlibTag]
-All = All
+All = Alles
 [/findlibTag]
 
 Export Pick and Place File = Pick-and-placebestand exporteren
@@ -3070,7 +3070,7 @@ Homepage = Homepage
 Apply for Education Edition = Apply for Education Edition
 Load Organization failed = Load Organization failed
 Joined = Joined
-Favorite = Favorite
+Favorite = Favoriet
 This operation will unfavorite this project, do you want to continue? = This operation will unfavorite this project, do you want to continue?
 View Homepage = View Homepage
 Private Project = Private Project
